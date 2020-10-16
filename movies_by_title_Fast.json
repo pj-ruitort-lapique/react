@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Fast & Furious",
+        "year": 2009,
+        "duration": 107,
+        "id": 1013752
+    },
+    {
+        "title": "Fast & Furious 6",
+        "year": 2013,
+        "duration": 130,
+        "id": 1905041
+    },
+    {
+        "title": "Fast & Furious: Supercharged",
+        "year": 2015,
+        "duration": 11,
+        "id": 3757982
+    },
+    {
+        "title": "Fast Five",
+        "year": 2011,
+        "duration": 130,
+        "id": 1596343
+    },
+    {
+        "title": "The Fast and the Furious",
+        "year": 2001,
+        "duration": 106,
+        "id": 232500
+    },
+    {
+        "title": "The Fast and the Furious: Tokyo Drift",
+        "year": 2006,
+        "duration": 104,
+        "id": 463985
+    }
+]

@@ -1,0 +1,102 @@
+[
+    [
+        {
+            "name": "John Wayne",
+            "birthdate": "1907-05-26",
+            "id": 78
+        },
+        172,
+        1926,
+        1976
+    ],
+    [
+        {
+            "name": "Harrison Ford",
+            "birthdate": "1884-03-16",
+            "id": 1230
+        },
+        86,
+        1915,
+        1932
+    ],
+    [
+        {
+            "name": "Sean Connery",
+            "birthdate": "1930-08-25",
+            "id": 125
+        },
+        73,
+        1954,
+        2012
+    ],
+    [
+        {
+            "name": "Sylvester Stallone",
+            "birthdate": "1946-07-06",
+            "id": 230
+        },
+        73,
+        1969,
+        2019
+    ],
+    [
+        {
+            "name": "Tom Hanks",
+            "birthdate": "1956-07-09",
+            "id": 158
+        },
+        69,
+        1980,
+        2020
+    ],
+    [
+        {
+            "name": "Jean-Claude Van Damme",
+            "birthdate": "1960-10-18",
+            "id": 241
+        },
+        66,
+        1979,
+        2019
+    ],
+    [
+        {
+            "name": "Clint Eastwood",
+            "birthdate": "1930-05-31",
+            "id": 142
+        },
+        63,
+        1955,
+        2018
+    ],
+    [
+        {
+            "name": "Harrison Ford",
+            "birthdate": "1942-07-13",
+            "id": 148
+        },
+        63,
+        1966,
+        2020
+    ],
+    [
+        {
+            "name": "Arnold Schwarzenegger",
+            "birthdate": "1947-07-30",
+            "id": 216
+        },
+        56,
+        1970,
+        2019
+    ],
+    [
+        {
+            "name": "Will Smith",
+            "birthdate": "1968-09-25",
+            "id": 226
+        },
+        50,
+        1988,
+        2020
+    ]
+]

@@ -1,0 +1,8660 @@
+[
+    {
+        "title": "Excuse Me",
+        "year": 1915,
+        "duration": 50,
+        "id": 5257
+    },
+    {
+        "title": "Anton the Terrible",
+        "year": 1916,
+        "duration": 50,
+        "id": 6366
+    },
+    {
+        "title": "The Mysterious Mrs. Musslewhite",
+        "year": 1917,
+        "duration": 50,
+        "id": 8351
+    },
+    {
+        "title": "On the Level",
+        "year": 1917,
+        "duration": 50,
+        "id": 8384
+    },
+    {
+        "title": "The Sunset Trail",
+        "year": 1917,
+        "duration": 50,
+        "id": 8642
+    },
+    {
+        "title": "The Tides of Barnegat",
+        "year": 1917,
+        "duration": 50,
+        "id": 8676
+    },
+    {
+        "title": "The Cruise of the Make-Believes",
+        "year": 1918,
+        "duration": 50,
+        "id": 8981
+    },
+    {
+        "title": "Good Night, Paul",
+        "year": 1918,
+        "duration": 50,
+        "id": 9124
+    },
+    {
+        "title": "A Lady's Name",
+        "year": 1918,
+        "duration": 50,
+        "id": 9274
+    },
+    {
+        "title": "Mrs. Leffingwell's Boots",
+        "year": 1918,
+        "duration": 50,
+        "id": 9403
+    },
+    {
+        "title": "A Pair of Silk Stockings",
+        "year": 1918,
+        "duration": 60,
+        "id": 9475
+    },
+    {
+        "title": "A Petticoat Pilot",
+        "year": 1918,
+        "duration": 50,
+        "id": 9492
+    },
+    {
+        "title": "Sauce for the Goose",
+        "year": 1918,
+        "duration": 50,
+        "id": 9576
+    },
+    {
+        "title": "Such a Little Pirate",
+        "year": 1918,
+        "duration": 50,
+        "id": 9666
+    },
+    {
+        "title": "Unclaimed Goods",
+        "year": 1918,
+        "duration": 50,
+        "id": 9740
+    },
+    {
+        "title": "Viviette",
+        "year": 1918,
+        "duration": 50,
+        "id": 9767
+    },
+    {
+        "title": "Experimental Marriage",
+        "year": 1919,
+        "duration": 50,
+        "id": 10099
+    },
+    {
+        "title": "Girls",
+        "year": 1919,
+        "duration": 50,
+        "id": 10175
+    },
+    {
+        "title": "Happiness a la Mode",
+        "year": 1919,
+        "duration": 50,
+        "id": 10207
+    },
+    {
+        "title": "Hawthorne of the U.S.A.",
+        "year": 1919,
+        "duration": 57,
+        "id": 10219
+    },
+    {
+        "title": "The Lottery Man",
+        "year": 1919,
+        "duration": 50,
+        "id": 10389
+    },
+    {
+        "title": "Romance and Arabella",
+        "year": 1919,
+        "duration": 50,
+        "id": 10637
+    },
+    {
+        "title": "The Third Kiss",
+        "year": 1919,
+        "duration": 50,
+        "id": 10771
+    },
+    {
+        "title": "The Veiled Adventure",
+        "year": 1919,
+        "duration": 50,
+        "id": 10837
+    },
+    {
+        "title": "Who Cares?",
+        "year": 1919,
+        "duration": 50,
+        "id": 10883
+    },
+    {
+        "title": "You Never Saw Such a Girl",
+        "year": 1919,
+        "duration": 50,
+        "id": 10928
+    },
+    {
+        "title": "Easy to Get",
+        "year": 1920,
+        "duration": 50,
+        "id": 11146
+    },
+    {
+        "title": "Her Beloved Villain",
+        "year": 1920,
+        "duration": 50,
+        "id": 11282
+    },
+    {
+        "title": "A Lady in Love",
+        "year": 1920,
+        "duration": 50,
+        "id": 11381
+    },
+    {
+        "title": "Miss Hobbs",
+        "year": 1920,
+        "duration": 60,
+        "id": 11469
+    },
+    {
+        "title": "Oh, Lady, Lady",
+        "year": 1920,
+        "duration": 50,
+        "id": 11527
+    },
+    {
+        "title": "Young Mrs. Winthrop",
+        "year": 1920,
+        "duration": 50,
+        "id": 11892
+    },
+    {
+        "title": "Food for Scandal",
+        "year": 1920,
+        "duration": 50,
+        "id": 12180
+    },
+    {
+        "title": "A Heart to Let",
+        "year": 1921,
+        "duration": 50,
+        "id": 12260
+    },
+    {
+        "title": "Love's Redemption",
+        "year": 1921,
+        "duration": 72,
+        "id": 12413
+    },
+    {
+        "title": "Passion Flower",
+        "year": 1921,
+        "duration": 84,
+        "id": 12555
+    },
+    {
+        "title": "Wedding Bells",
+        "year": 1921,
+        "duration": 60,
+        "id": 12823
+    },
+    {
+        "title": "The Wonderful Thing",
+        "year": 1921,
+        "duration": 84,
+        "id": 12864
+    },
+    {
+        "title": "Find the Woman",
+        "year": 1922,
+        "duration": 60,
+        "id": 13126
+    },
+    {
+        "title": "Foolish Wives",
+        "year": 1922,
+        "duration": 117,
+        "id": 13140
+    },
+    {
+        "title": "Her Gilded Cage",
+        "year": 1922,
+        "duration": 60,
+        "id": 13229
+    },
+    {
+        "title": "Number 13",
+        "year": 1922,
+        "duration": null,
+        "id": 13444
+    },
+    {
+        "title": "The Old Homestead",
+        "year": 1922,
+        "duration": 80,
+        "id": 13449
+    },
+    {
+        "title": "The Primitive Lover",
+        "year": 1922,
+        "duration": 68,
+        "id": 13512
+    },
+    {
+        "title": "Shadows",
+        "year": 1922,
+        "duration": 70,
+        "id": 13592
+    },
+    {
+        "title": "Smilin' Through",
+        "year": 1922,
+        "duration": 96,
+        "id": 13611
+    },
+    {
+        "title": "When Love Comes",
+        "year": 1922,
+        "duration": 60,
+        "id": 13751
+    },
+    {
+        "title": "Bright Lights of Broadway",
+        "year": 1923,
+        "duration": 70,
+        "id": 13891
+    },
+    {
+        "title": "Little Old New York",
+        "year": 1923,
+        "duration": 110,
+        "id": 14205
+    },
+    {
+        "title": "Maytime",
+        "year": 1923,
+        "duration": 80,
+        "id": 14264
+    },
+    {
+        "title": "Vanity Fair",
+        "year": 1923,
+        "duration": 80,
+        "id": 14572
+    },
+    {
+        "title": "The Average Woman",
+        "year": 1924,
+        "duration": 64,
+        "id": 14689
+    },
+    {
+        "title": "A Fool's Awakening",
+        "year": 1924,
+        "duration": 60,
+        "id": 14918
+    },
+    {
+        "title": "Janice Meredith",
+        "year": 1924,
+        "duration": 153,
+        "id": 15022
+    },
+    {
+        "title": "The Price of a Party",
+        "year": 1924,
+        "duration": 60,
+        "id": 15249
+    },
+    {
+        "title": "Lovers in Quarantine",
+        "year": 1925,
+        "duration": 70,
+        "id": 16048
+    },
+    {
+        "title": "The Mad Marriage",
+        "year": 1925,
+        "duration": 50,
+        "id": 16062
+    },
+    {
+        "title": "The Marriage Whirl",
+        "year": 1925,
+        "duration": 80,
+        "id": 16093
+    },
+    {
+        "title": "The Mountain Eagle",
+        "year": 1926,
+        "duration": 57,
+        "id": 16127
+    },
+    {
+        "title": "The Pleasure Garden",
+        "year": 1925,
+        "duration": 75,
+        "id": 16230
+    },
+    {
+        "title": "Proud Flesh",
+        "year": 1925,
+        "duration": 70,
+        "id": 16251
+    },
+    {
+        "title": "That Royle Girl",
+        "year": 1925,
+        "duration": 114,
+        "id": 16420
+    },
+    {
+        "title": "The Wheel",
+        "year": 1925,
+        "duration": 80,
+        "id": 16514
+    },
+    {
+        "title": "Zander the Great",
+        "year": 1925,
+        "duration": 80,
+        "id": 16560
+    },
+    {
+        "title": "Almost a Lady",
+        "year": 1926,
+        "duration": 60,
+        "id": 16597
+    },
+    {
+        "title": "Bardelys the Magnificent",
+        "year": 1926,
+        "duration": 90,
+        "id": 16627
+    },
+    {
+        "title": "Brown of Harvard",
+        "year": 1926,
+        "duration": 85,
+        "id": 16690
+    },
+    {
+        "title": "The Great K & A Train Robbery",
+        "year": 1926,
+        "duration": 53,
+        "id": 16939
+    },
+    {
+        "title": "Hell's Four Hundred",
+        "year": 1926,
+        "duration": 60,
+        "id": 16954
+    },
+    {
+        "title": "The Lodger: A Story of the London Fog",
+        "year": 1927,
+        "duration": 68,
+        "id": 17075
+    },
+    {
+        "title": "The Nervous Wreck",
+        "year": 1926,
+        "duration": 70,
+        "id": 17201
+    },
+    {
+        "title": "Sandy",
+        "year": 1926,
+        "duration": 80,
+        "id": 17344
+    },
+    {
+        "title": "The Song and Dance Man",
+        "year": 1926,
+        "duration": 70,
+        "id": 17417
+    },
+    {
+        "title": "Up in Mabel's Room",
+        "year": 1926,
+        "duration": 70,
+        "id": 17506
+    },
+    {
+        "title": "Annie Laurie",
+        "year": 1927,
+        "duration": 90,
+        "id": 17632
+    },
+    {
+        "title": "When Boys Leave Home",
+        "year": 1927,
+        "duration": 80,
+        "id": 17825
+    },
+    {
+        "title": "The Drop Kick",
+        "year": 1927,
+        "duration": 62,
+        "id": 17832
+    },
+    {
+        "title": "Easy Virtue",
+        "year": 1927,
+        "duration": 80,
+        "id": 17843
+    },
+    {
+        "title": "The Girl in the Pullman",
+        "year": 1927,
+        "duration": 60,
+        "id": 17936
+    },
+    {
+        "title": "Night Bride",
+        "year": 1927,
+        "duration": 60,
+        "id": 18201
+    },
+    {
+        "title": "The Rejuvenation of Aunt Mary",
+        "year": 1927,
+        "duration": 60,
+        "id": 18314
+    },
+    {
+        "title": "The Ring",
+        "year": 1927,
+        "duration": 116,
+        "id": 18328
+    },
+    {
+        "title": "Rubber Tires",
+        "year": 1927,
+        "duration": 70,
+        "id": 18350
+    },
+    {
+        "title": "A Blonde for a Night",
+        "year": 1928,
+        "duration": 60,
+        "id": 18710
+    },
+    {
+        "title": "Champagne",
+        "year": 1928,
+        "duration": 86,
+        "id": 18756
+    },
+    {
+        "title": "The Farmer's Wife",
+        "year": 1928,
+        "duration": 100,
+        "id": 18876
+    },
+    {
+        "title": "Four Sons",
+        "year": 1928,
+        "duration": 100,
+        "id": 18909
+    },
+    {
+        "title": "Golf Widows",
+        "year": 1928,
+        "duration": 56,
+        "id": 18949
+    },
+    {
+        "title": "Hangman's House",
+        "year": 1928,
+        "duration": 80,
+        "id": 18972
+    },
+    {
+        "title": "Just Married",
+        "year": 1928,
+        "duration": 60,
+        "id": 19044
+    },
+    {
+        "title": "Let 'Er Go Gallegher",
+        "year": 1928,
+        "duration": 60,
+        "id": 19085
+    },
+    {
+        "title": "Mother Machree",
+        "year": 1927,
+        "duration": 75,
+        "id": 19182
+    },
+    {
+        "title": "The Rush Hour",
+        "year": 1928,
+        "duration": 60,
+        "id": 19339
+    },
+    {
+        "title": "Three Week Ends",
+        "year": 1928,
+        "duration": 60,
+        "id": 19471
+    },
+    {
+        "title": "A Woman Against the World",
+        "year": 1928,
+        "duration": 60,
+        "id": 19588
+    },
+    {
+        "title": "The Black Watch",
+        "year": 1929,
+        "duration": 93,
+        "id": 19699
+    },
+    {
+        "title": "Blackmail",
+        "year": 1929,
+        "duration": 85,
+        "id": 19702
+    },
+    {
+        "title": "The Forward Pass",
+        "year": 1929,
+        "duration": 78,
+        "id": 19895
+    },
+    {
+        "title": "Her Husband's Women",
+        "year": 1929,
+        "duration": 18,
+        "id": 19978
+    },
+    {
+        "title": "The Manxman",
+        "year": 1929,
+        "duration": 110,
+        "id": 20142
+    },
+    {
+        "title": "Noah's Ark",
+        "year": 1928,
+        "duration": 135,
+        "id": 20223
+    },
+    {
+        "title": "Salute",
+        "year": 1929,
+        "duration": 84,
+        "id": 20359
+    },
+    {
+        "title": "Speakeasy",
+        "year": 1929,
+        "duration": 62,
+        "id": 20438
+    },
+    {
+        "title": "Words and Music",
+        "year": 1929,
+        "duration": 81,
+        "id": 20604
+    },
+    {
+        "title": "The Big Trail",
+        "year": 1930,
+        "duration": 125,
+        "id": 20691
+    },
+    {
+        "title": "Born Reckless",
+        "year": 1930,
+        "duration": 82,
+        "id": 20702
+    },
+    {
+        "title": "Cheer Up and Smile",
+        "year": 1930,
+        "duration": 76,
+        "id": 20759
+    },
+    {
+        "title": "Elstree Calling",
+        "year": 1930,
+        "duration": 86,
+        "id": 20852
+    },
+    {
+        "title": "Juno and the Paycock",
+        "year": 1930,
+        "duration": 85,
+        "id": 21015
+    },
+    {
+        "title": "Mary",
+        "year": 1931,
+        "duration": 78,
+        "id": 21128
+    },
+    {
+        "title": "Men Without Women",
+        "year": 1930,
+        "duration": 77,
+        "id": 21140
+    },
+    {
+        "title": "Murder!",
+        "year": 1930,
+        "duration": 104,
+        "id": 21165
+    },
+    {
+        "title": "Rough Romance",
+        "year": 1930,
+        "duration": 55,
+        "id": 21319
+    },
+    {
+        "title": "The Deceiver",
+        "year": 1931,
+        "duration": 66,
+        "id": 21507
+    },
+    {
+        "title": "Girls Demand Excitement",
+        "year": 1931,
+        "duration": 69,
+        "id": 21911
+    },
+    {
+        "title": "Love in High Gear",
+        "year": 1932,
+        "duration": 66,
+        "id": 22093
+    },
+    {
+        "title": "Maker of Men",
+        "year": 1931,
+        "duration": 71,
+        "id": 22109
+    },
+    {
+        "title": "Arizona",
+        "year": 1931,
+        "duration": 70,
+        "id": 22134
+    },
+    {
+        "title": "The Range Feud",
+        "year": 1931,
+        "duration": 64,
+        "id": 22293
+    },
+    {
+        "title": "The Skin Game",
+        "year": 1931,
+        "duration": 85,
+        "id": 22395
+    },
+    {
+        "title": "Three Girls Lost",
+        "year": 1931,
+        "duration": 80,
+        "id": 22479
+    },
+    {
+        "title": "The Big Stampede",
+        "year": 1932,
+        "duration": 54,
+        "id": 22681
+    },
+    {
+        "title": "Haunted Gold",
+        "year": 1932,
+        "duration": 58,
+        "id": 22981
+    },
+    {
+        "title": "The Hurricane Express",
+        "year": 1932,
+        "duration": 227,
+        "id": 23038
+    },
+    {
+        "title": "Lady and Gent",
+        "year": 1932,
+        "duration": 84,
+        "id": 23109
+    },
+    {
+        "title": "Number 17",
+        "year": 1932,
+        "duration": 66,
+        "id": 23285
+    },
+    {
+        "title": "East of Shanghai",
+        "year": 1931,
+        "duration": 92,
+        "id": 23395
+    },
+    {
+        "title": "Ride Him, Cowboy",
+        "year": 1932,
+        "duration": 55,
+        "id": 23396
+    },
+    {
+        "title": "Running Hollywood",
+        "year": 1932,
+        "duration": 20,
+        "id": 23415
+    },
+    {
+        "title": "The Shadow of the Eagle",
+        "year": 1932,
+        "duration": 218,
+        "id": 23456
+    },
+    {
+        "title": "Texas Cyclone",
+        "year": 1932,
+        "duration": 63,
+        "id": 23567
+    },
+    {
+        "title": "That's My Boy",
+        "year": 1932,
+        "duration": 71,
+        "id": 23576
+    },
+    {
+        "title": "Two-Fisted Law",
+        "year": 1932,
+        "duration": 64,
+        "id": 23631
+    },
+    {
+        "title": "The Voice of Hollywood No. 13 (Second Series)",
+        "year": 1932,
+        "duration": 12,
+        "id": 23660
+    },
+    {
+        "title": "Baby Face",
+        "year": 1933,
+        "duration": 71,
+        "id": 23775
+    },
+    {
+        "title": "Central Airport",
+        "year": 1933,
+        "duration": 72,
+        "id": 23878
+    },
+    {
+        "title": "College Coach",
+        "year": 1933,
+        "duration": 76,
+        "id": 23899
+    },
+    {
+        "title": "His Private Secretary",
+        "year": 1933,
+        "duration": 60,
+        "id": 24124
+    },
+    {
+        "title": "The Life of Jimmy Dolan",
+        "year": 1933,
+        "duration": 88,
+        "id": 24257
+    },
+    {
+        "title": "The Man from Monterey",
+        "year": 1933,
+        "duration": 57,
+        "id": 24293
+    },
+    {
+        "title": "Riders of Destiny",
+        "year": 1933,
+        "duration": 53,
+        "id": 24500
+    },
+    {
+        "title": "Sagebrush Trail",
+        "year": 1933,
+        "duration": 54,
+        "id": 24516
+    },
+    {
+        "title": "Somewhere in Sonora",
+        "year": 1933,
+        "duration": 59,
+        "id": 24592
+    },
+    {
+        "title": "The Telegraph Trail",
+        "year": 1933,
+        "duration": 54,
+        "id": 24647
+    },
+    {
+        "title": "The Three Musketeers",
+        "year": 1933,
+        "duration": 210,
+        "id": 24663
+    },
+    {
+        "title": "Strauss' Great Waltz",
+        "year": 1934,
+        "duration": 81,
+        "id": 24747
+    },
+    {
+        "title": "'Neath the Arizona Skies",
+        "year": 1934,
+        "duration": 52,
+        "id": 24805
+    },
+    {
+        "title": "Blue Steel",
+        "year": 1934,
+        "duration": 54,
+        "id": 24902
+    },
+    {
+        "title": "The Lawless Frontier",
+        "year": 1934,
+        "duration": 59,
+        "id": 25373
+    },
+    {
+        "title": "The Lucky Texan",
+        "year": 1934,
+        "duration": 55,
+        "id": 25440
+    },
+    {
+        "title": "The Man Who Knew Too Much",
+        "year": 1934,
+        "duration": 75,
+        "id": 25452
+    },
+    {
+        "title": "The Man from Utah",
+        "year": 1934,
+        "duration": 55,
+        "id": 25455
+    },
+    {
+        "title": "Randy Rides Alone",
+        "year": 1934,
+        "duration": 52,
+        "id": 25699
+    },
+    {
+        "title": "The Star Packer",
+        "year": 1934,
+        "duration": 53,
+        "id": 25830
+    },
+    {
+        "title": "The Trail Beyond",
+        "year": 1934,
+        "duration": 55,
+        "id": 25903
+    },
+    {
+        "title": "West of the Divide",
+        "year": 1934,
+        "duration": 54,
+        "id": 25969
+    },
+    {
+        "title": "The 39 Steps",
+        "year": 1935,
+        "duration": 86,
+        "id": 26029
+    },
+    {
+        "title": "The Dawn Rider",
+        "year": 1935,
+        "duration": 53,
+        "id": 26267
+    },
+    {
+        "title": "The Desert Trail",
+        "year": 1935,
+        "duration": 54,
+        "id": 26273
+    },
+    {
+        "title": "Lawless Range",
+        "year": 1935,
+        "duration": 53,
+        "id": 26614
+    },
+    {
+        "title": "The New Frontier",
+        "year": 1935,
+        "duration": 54,
+        "id": 26774
+    },
+    {
+        "title": "Paradise Canyon",
+        "year": 1935,
+        "duration": 52,
+        "id": 26846
+    },
+    {
+        "title": "Rainbow Valley",
+        "year": 1935,
+        "duration": 52,
+        "id": 26908
+    },
+    {
+        "title": "Sanders of the River",
+        "year": 1935,
+        "duration": 98,
+        "id": 26966
+    },
+    {
+        "title": "Texas Terror",
+        "year": 1935,
+        "duration": 51,
+        "id": 27087
+    },
+    {
+        "title": "Westward Ho",
+        "year": 1935,
+        "duration": 61,
+        "id": 27200
+    },
+    {
+        "title": "Conflict",
+        "year": 1936,
+        "duration": 60,
+        "id": 27462
+    },
+    {
+        "title": "King of the Pecos",
+        "year": 1936,
+        "duration": 54,
+        "id": 27849
+    },
+    {
+        "title": "The Lawless Nineties",
+        "year": 1936,
+        "duration": 55,
+        "id": 27876
+    },
+    {
+        "title": "The Lonely Trail",
+        "year": 1936,
+        "duration": 56,
+        "id": 27905
+    },
+    {
+        "title": "The Oregon Trail",
+        "year": 1936,
+        "duration": 59,
+        "id": 28068
+    },
+    {
+        "title": "Sabotage",
+        "year": 1936,
+        "duration": 76,
+        "id": 28212
+    },
+    {
+        "title": "Sea Spoilers",
+        "year": 1936,
+        "duration": 63,
+        "id": 28227
+    },
+    {
+        "title": "Secret Agent",
+        "year": 1936,
+        "duration": 86,
+        "id": 28231
+    },
+    {
+        "title": "Winds of the Wasteland",
+        "year": 1936,
+        "duration": 54,
+        "id": 28510
+    },
+    {
+        "title": "Adventure's End",
+        "year": 1937,
+        "duration": 60,
+        "id": 28554
+    },
+    {
+        "title": "Born to the West",
+        "year": 1937,
+        "duration": 59,
+        "id": 28653
+    },
+    {
+        "title": "California Straight Ahead!",
+        "year": 1937,
+        "duration": 67,
+        "id": 28677
+    },
+    {
+        "title": "I Cover the War!",
+        "year": 1937,
+        "duration": 68,
+        "id": 29034
+    },
+    {
+        "title": "Idol of the Crowds",
+        "year": 1937,
+        "duration": 60,
+        "id": 29044
+    },
+    {
+        "title": "Young and Innocent",
+        "year": 1937,
+        "duration": 80,
+        "id": 29811
+    },
+    {
+        "title": "The Lady Vanishes",
+        "year": 1938,
+        "duration": 96,
+        "id": 30341
+    },
+    {
+        "title": "Overland Stage Raiders",
+        "year": 1938,
+        "duration": 55,
+        "id": 30545
+    },
+    {
+        "title": "Pals of the Saddle",
+        "year": 1938,
+        "duration": 55,
+        "id": 30550
+    },
+    {
+        "title": "Red River Range",
+        "year": 1938,
+        "duration": 56,
+        "id": 30663
+    },
+    {
+        "title": "Santa Fe Stampede",
+        "year": 1938,
+        "duration": 55,
+        "id": 30714
+    },
+    {
+        "title": "Allegheny Uprising",
+        "year": 1939,
+        "duration": 81,
+        "id": 31033
+    },
+    {
+        "title": "Jamaica Inn",
+        "year": 1939,
+        "duration": 108,
+        "id": 31505
+    },
+    {
+        "title": "New Frontier",
+        "year": 1939,
+        "duration": 57,
+        "id": 31718
+    },
+    {
+        "title": "The Night Riders",
+        "year": 1939,
+        "duration": 56,
+        "id": 31722
+    },
+    {
+        "title": "Stagecoach",
+        "year": 1939,
+        "duration": 96,
+        "id": 31971
+    },
+    {
+        "title": "Three Texas Steers",
+        "year": 1939,
+        "duration": 56,
+        "id": 32032
+    },
+    {
+        "title": "Wyoming Outlaw",
+        "year": 1939,
+        "duration": 56,
+        "id": 32146
+    },
+    {
+        "title": "Dark Command",
+        "year": 1940,
+        "duration": 94,
+        "id": 32383
+    },
+    {
+        "title": "Foreign Correspondent",
+        "year": 1940,
+        "duration": 120,
+        "id": 32484
+    },
+    {
+        "title": "The House Across the Bay",
+        "year": 1940,
+        "duration": 88,
+        "id": 32609
+    },
+    {
+        "title": "The Long Voyage Home",
+        "year": 1940,
+        "duration": 105,
+        "id": 32728
+    },
+    {
+        "title": "Rebecca",
+        "year": 1940,
+        "duration": 130,
+        "id": 32976
+    },
+    {
+        "title": "Seven Sinners",
+        "year": 1940,
+        "duration": 87,
+        "id": 33038
+    },
+    {
+        "title": "Three Faces West",
+        "year": 1940,
+        "duration": 79,
+        "id": 33159
+    },
+    {
+        "title": "Lady for a Night",
+        "year": 1942,
+        "duration": 87,
+        "id": 33806
+    },
+    {
+        "title": "Lady from Louisiana",
+        "year": 1941,
+        "duration": 82,
+        "id": 33808
+    },
+    {
+        "title": "A Man Betrayed",
+        "year": 1941,
+        "duration": 82,
+        "id": 33871
+    },
+    {
+        "title": "Mr. & Mrs. Smith",
+        "year": 1941,
+        "duration": 95,
+        "id": 33922
+    },
+    {
+        "title": "The Shepherd of the Hills",
+        "year": 1941,
+        "duration": 98,
+        "id": 34182
+    },
+    {
+        "title": "Suspicion",
+        "year": 1941,
+        "duration": 99,
+        "id": 34248
+    },
+    {
+        "title": "Flying Tigers",
+        "year": 1942,
+        "duration": 102,
+        "id": 34742
+    },
+    {
+        "title": "In Old California",
+        "year": 1942,
+        "duration": 88,
+        "id": 34889
+    },
+    {
+        "title": "Pittsburgh",
+        "year": 1942,
+        "duration": 92,
+        "id": 35195
+    },
+    {
+        "title": "Reap the Wild Wind",
+        "year": 1942,
+        "duration": 123,
+        "id": 35244
+    },
+    {
+        "title": "Reunion in France",
+        "year": 1942,
+        "duration": 104,
+        "id": 35250
+    },
+    {
+        "title": "Saboteur",
+        "year": 1942,
+        "duration": 109,
+        "id": 35279
+    },
+    {
+        "title": "The Spoilers",
+        "year": 1942,
+        "duration": 87,
+        "id": 35369
+    },
+    {
+        "title": "In Old Oklahoma",
+        "year": 1943,
+        "duration": 102,
+        "id": 36038
+    },
+    {
+        "title": "A Lady Takes a Chance",
+        "year": 1943,
+        "duration": 86,
+        "id": 36092
+    },
+    {
+        "title": "Shadow of a Doubt",
+        "year": 1943,
+        "duration": 108,
+        "id": 36342
+    },
+    {
+        "title": "Aventure malgache",
+        "year": 1944,
+        "duration": 32,
+        "id": 36621
+    },
+    {
+        "title": "Bon Voyage",
+        "year": 1944,
+        "duration": 26,
+        "id": 36659
+    },
+    {
+        "title": "The Fighting Seabees",
+        "year": 1944,
+        "duration": 100,
+        "id": 36824
+    },
+    {
+        "title": "Lifeboat",
+        "year": 1944,
+        "duration": 97,
+        "id": 37017
+    },
+    {
+        "title": "Tall in the Saddle",
+        "year": 1944,
+        "duration": 87,
+        "id": 37343
+    },
+    {
+        "title": "Back to Bataan",
+        "year": 1945,
+        "duration": 95,
+        "id": 37522
+    },
+    {
+        "title": "Dakota",
+        "year": 1945,
+        "duration": 82,
+        "id": 37627
+    },
+    {
+        "title": "Flame of Barbary Coast",
+        "year": 1945,
+        "duration": 91,
+        "id": 37702
+    },
+    {
+        "title": "Spellbound",
+        "year": 1945,
+        "duration": 111,
+        "id": 38109
+    },
+    {
+        "title": "They Were Expendable",
+        "year": 1945,
+        "duration": 135,
+        "id": 38160
+    },
+    {
+        "title": "Notorious",
+        "year": 1946,
+        "duration": 102,
+        "id": 38787
+    },
+    {
+        "title": "Without Reservations",
+        "year": 1946,
+        "duration": 107,
+        "id": 39110
+    },
+    {
+        "title": "Angel and the Badman",
+        "year": 1947,
+        "duration": 100,
+        "id": 39152
+    },
+    {
+        "title": "The Paradine Case",
+        "year": 1947,
+        "duration": 125,
+        "id": 39694
+    },
+    {
+        "title": "Tycoon",
+        "year": 1947,
+        "duration": 128,
+        "id": 39927
+    },
+    {
+        "title": "3 Godfathers",
+        "year": 1948,
+        "duration": 106,
+        "id": 40064
+    },
+    {
+        "title": "Fort Apache",
+        "year": 1948,
+        "duration": 128,
+        "id": 40369
+    },
+    {
+        "title": "Red River",
+        "year": 1948,
+        "duration": 133,
+        "id": 40724
+    },
+    {
+        "title": "Rope",
+        "year": 1948,
+        "duration": 80,
+        "id": 40746
+    },
+    {
+        "title": "Wake of the Red Witch",
+        "year": 1948,
+        "duration": 106,
+        "id": 40946
+    },
+    {
+        "title": "The Fighting Kentuckian",
+        "year": 1949,
+        "duration": 100,
+        "id": 41361
+    },
+    {
+        "title": "Sands of Iwo Jima",
+        "year": 1949,
+        "duration": 100,
+        "id": 41841
+    },
+    {
+        "title": "She Wore a Yellow Ribbon",
+        "year": 1949,
+        "duration": 104,
+        "id": 41866
+    },
+    {
+        "title": "Under Capricorn",
+        "year": 1949,
+        "duration": 117,
+        "id": 42004
+    },
+    {
+        "title": "Rio Grande",
+        "year": 1950,
+        "duration": 105,
+        "id": 42895
+    },
+    {
+        "title": "Stage Fright",
+        "year": 1950,
+        "duration": 110,
+        "id": 42994
+    },
+    {
+        "title": "Flying Leathernecks",
+        "year": 1951,
+        "duration": 102,
+        "id": 43547
+    },
+    {
+        "title": "Operation Pacific",
+        "year": 1951,
+        "duration": 111,
+        "id": 43887
+    },
+    {
+        "title": "Strangers on a Train",
+        "year": 1951,
+        "duration": 101,
+        "id": 44079
+    },
+    {
+        "title": "Big Jim McLain",
+        "year": 1952,
+        "duration": 90,
+        "id": 44418
+    },
+    {
+        "title": "The Quiet Man",
+        "year": 1952,
+        "duration": 129,
+        "id": 45061
+    },
+    {
+        "title": "Hondo",
+        "year": 1953,
+        "duration": 83,
+        "id": 45883
+    },
+    {
+        "title": "I Confess",
+        "year": 1953,
+        "duration": 95,
+        "id": 45897
+    },
+    {
+        "title": "Island in the Sky",
+        "year": 1953,
+        "duration": 109,
+        "id": 45919
+    },
+    {
+        "title": "Trouble Along the Way",
+        "year": 1953,
+        "duration": 111,
+        "id": 46463
+    },
+    {
+        "title": "Dial M for Murder",
+        "year": 1954,
+        "duration": 105,
+        "id": 46912
+    },
+    {
+        "title": "The High and the Mighty",
+        "year": 1954,
+        "duration": 147,
+        "id": 47086
+    },
+    {
+        "title": "Rear Window",
+        "year": 1954,
+        "duration": 112,
+        "id": 47396
+    },
+    {
+        "title": "Blood Alley",
+        "year": 1955,
+        "duration": 110,
+        "id": 47889
+    },
+    {
+        "title": "Francis in the Navy",
+        "year": 1955,
+        "duration": 80,
+        "id": 48092
+    },
+    {
+        "title": "Lady Godiva of Coventry",
+        "year": 1955,
+        "duration": 89,
+        "id": 48279
+    },
+    {
+        "title": "Let's Make Up",
+        "year": 1954,
+        "duration": 94,
+        "id": 48294
+    },
+    {
+        "title": "Revenge of the Creature",
+        "year": 1955,
+        "duration": 82,
+        "id": 48554
+    },
+    {
+        "title": "The Sea Chase",
+        "year": 1955,
+        "duration": 117,
+        "id": 48593
+    },
+    {
+        "title": "Tarantula",
+        "year": 1955,
+        "duration": 80,
+        "id": 48696
+    },
+    {
+        "title": "To Catch a Thief",
+        "year": 1955,
+        "duration": 106,
+        "id": 48728
+    },
+    {
+        "title": "The Trouble with Harry",
+        "year": 1955,
+        "duration": 99,
+        "id": 48750
+    },
+    {
+        "title": "Away All Boats",
+        "year": 1956,
+        "duration": 114,
+        "id": 48971
+    },
+    {
+        "title": "The Conqueror",
+        "year": 1956,
+        "duration": 111,
+        "id": 49092
+    },
+    {
+        "title": "The First Traveling Saleslady",
+        "year": 1956,
+        "duration": 92,
+        "id": 49212
+    },
+    {
+        "title": "The Man Who Knew Too Much",
+        "year": 1956,
+        "duration": 120,
+        "id": 49470
+    },
+    {
+        "title": "Never Say Goodbye",
+        "year": 1956,
+        "duration": 96,
+        "id": 49547
+    },
+    {
+        "title": "The Searchers",
+        "year": 1956,
+        "duration": 119,
+        "id": 49730
+    },
+    {
+        "title": "Somebody Up There Likes Me",
+        "year": 1956,
+        "duration": 113,
+        "id": 49778
+    },
+    {
+        "title": "Star in the Dust",
+        "year": 1956,
+        "duration": 80,
+        "id": 49793
+    },
+    {
+        "title": "Action of the Tiger",
+        "year": 1957,
+        "duration": 93,
+        "id": 50099
+    },
+    {
+        "title": "Escapade in Japan",
+        "year": 1957,
+        "duration": 93,
+        "id": 50363
+    },
+    {
+        "title": "Jet Pilot",
+        "year": 1957,
+        "duration": 113,
+        "id": 50562
+    },
+    {
+        "title": "Legend of the Lost",
+        "year": 1957,
+        "duration": 109,
+        "id": 50629
+    },
+    {
+        "title": "No Road Back",
+        "year": 1957,
+        "duration": 83,
+        "id": 50772
+    },
+    {
+        "title": "Time Lock",
+        "year": 1957,
+        "duration": 73,
+        "id": 51084
+    },
+    {
+        "title": "The Wings of Eagles",
+        "year": 1957,
+        "duration": 110,
+        "id": 51198
+    },
+    {
+        "title": "The Wrong Man",
+        "year": 1956,
+        "duration": 105,
+        "id": 51207
+    },
+    {
+        "title": "Ambush at Cimarron Pass",
+        "year": 1958,
+        "duration": 73,
+        "id": 51349
+    },
+    {
+        "title": "Another Time, Another Place",
+        "year": 1958,
+        "duration": 91,
+        "id": 51364
+    },
+    {
+        "title": "The Barbarian and the Geisha",
+        "year": 1958,
+        "duration": 105,
+        "id": 51398
+    },
+    {
+        "title": "The Blob",
+        "year": 1958,
+        "duration": 86,
+        "id": 51418
+    },
+    {
+        "title": "Hell Drivers",
+        "year": 1957,
+        "duration": 108,
+        "id": 51713
+    },
+    {
+        "title": "I Married a Woman",
+        "year": 1958,
+        "duration": 85,
+        "id": 51757
+    },
+    {
+        "title": "Lafayette Escadrille",
+        "year": 1958,
+        "duration": 93,
+        "id": 51840
+    },
+    {
+        "title": "Never Love a Stranger",
+        "year": 1958,
+        "duration": 91,
+        "id": 51987
+    },
+    {
+        "title": "Vertigo",
+        "year": 1958,
+        "duration": 128,
+        "id": 52357
+    },
+    {
+        "title": "Darby O'Gill and the Little People",
+        "year": 1959,
+        "duration": 93,
+        "id": 52722
+    },
+    {
+        "title": "The St. Louis Bank Robbery",
+        "year": 1959,
+        "duration": 89,
+        "id": 52862
+    },
+    {
+        "title": "The Horse Soldiers",
+        "year": 1959,
+        "duration": 120,
+        "id": 52902
+    },
+    {
+        "title": "The Last Gun",
+        "year": 1959,
+        "duration": 8,
+        "id": 52991
+    },
+    {
+        "title": "Never So Few",
+        "year": 1959,
+        "duration": 125,
+        "id": 53108
+    },
+    {
+        "title": "North by Northwest",
+        "year": 1959,
+        "duration": 136,
+        "id": 53125
+    },
+    {
+        "title": "Rio Bravo",
+        "year": 1959,
+        "duration": 141,
+        "id": 53221
+    },
+    {
+        "title": "Tarzan's Greatest Adventure",
+        "year": 1959,
+        "duration": 88,
+        "id": 53334
+    },
+    {
+        "title": "Vesuvius VI",
+        "year": 1959,
+        "duration": 10,
+        "id": 53416
+    },
+    {
+        "title": "The Alamo",
+        "year": 1960,
+        "duration": 162,
+        "id": 53580
+    },
+    {
+        "title": "The Magnificent Seven",
+        "year": 1960,
+        "duration": 128,
+        "id": 54047
+    },
+    {
+        "title": "North to Alaska",
+        "year": 1960,
+        "duration": 122,
+        "id": 54127
+    },
+    {
+        "title": "Psycho",
+        "year": 1960,
+        "duration": 109,
+        "id": 54215
+    },
+    {
+        "title": "Fighter Squad",
+        "year": 1961,
+        "duration": 8,
+        "id": 54670
+    },
+    {
+        "title": "The Comancheros",
+        "year": 1961,
+        "duration": 107,
+        "id": 54757
+    },
+    {
+        "title": "Escape to Nowhere",
+        "year": 1961,
+        "duration": 40,
+        "id": 54857
+    },
+    {
+        "title": "The Frightened City",
+        "year": 1961,
+        "duration": 97,
+        "id": 54898
+    },
+    {
+        "title": "Girl on the Run",
+        "year": 1953,
+        "duration": 64,
+        "id": 54930
+    },
+    {
+        "title": "The Honeymoon Machine",
+        "year": 1961,
+        "duration": 87,
+        "id": 54989
+    },
+    {
+        "title": "Operation Snafu",
+        "year": 1961,
+        "duration": 89,
+        "id": 55262
+    },
+    {
+        "title": "Dr. No",
+        "year": 1962,
+        "duration": 110,
+        "id": 55928
+    },
+    {
+        "title": "Hatari!",
+        "year": 1962,
+        "duration": 157,
+        "id": 56059
+    },
+    {
+        "title": "Hell Is for Heroes",
+        "year": 1962,
+        "duration": 90,
+        "id": 56062
+    },
+    {
+        "title": "How the West Was Won",
+        "year": 1962,
+        "duration": 164,
+        "id": 56085
+    },
+    {
+        "title": "The Longest Day",
+        "year": 1962,
+        "duration": 178,
+        "id": 56197
+    },
+    {
+        "title": "The Man Who Shot Liberty Valance",
+        "year": 1962,
+        "duration": 123,
+        "id": 56217
+    },
+    {
+        "title": "The War Lover",
+        "year": 1962,
+        "duration": 105,
+        "id": 56676
+    },
+    {
+        "title": "The Birds",
+        "year": 1963,
+        "duration": 119,
+        "id": 56869
+    },
+    {
+        "title": "Donovan's Reef",
+        "year": 1963,
+        "duration": 109,
+        "id": 57007
+    },
+    {
+        "title": "From Russia with Love",
+        "year": 1963,
+        "duration": 115,
+        "id": 57076
+    },
+    {
+        "title": "The Great Escape",
+        "year": 1963,
+        "duration": 172,
+        "id": 57115
+    },
+    {
+        "title": "Love with the Proper Stranger",
+        "year": 1963,
+        "duration": 102,
+        "id": 57263
+    },
+    {
+        "title": "McLintock!",
+        "year": 1963,
+        "duration": 127,
+        "id": 57298
+    },
+    {
+        "title": "Soldier in the Rain",
+        "year": 1963,
+        "duration": 88,
+        "id": 57517
+    },
+    {
+        "title": "What's a Nice Girl Like You Doing in a Place Like This?",
+        "year": 1963,
+        "duration": 9,
+        "id": 57680
+    },
+    {
+        "title": "Circus World",
+        "year": 1964,
+        "duration": 135,
+        "id": 57952
+    },
+    {
+        "title": "Goldfinger",
+        "year": 1964,
+        "duration": 110,
+        "id": 58150
+    },
+    {
+        "title": "It's Not Just You, Murray!",
+        "year": 1964,
+        "duration": 15,
+        "id": 58242
+    },
+    {
+        "title": "Marnie",
+        "year": 1964,
+        "duration": 130,
+        "id": 58329
+    },
+    {
+        "title": "A Fistful of Dollars",
+        "year": 1964,
+        "duration": 99,
+        "id": 58461
+    },
+    {
+        "title": "Woman of Straw",
+        "year": 1964,
+        "duration": 122,
+        "id": 58754
+    },
+    {
+        "title": "Baby the Rain Must Fall",
+        "year": 1965,
+        "duration": 100,
+        "id": 58930
+    },
+    {
+        "title": "The Cincinnati Kid",
+        "year": 1965,
+        "duration": 102,
+        "id": 59037
+    },
+    {
+        "title": "Firelight",
+        "year": 1964,
+        "duration": 140,
+        "id": 59181
+    },
+    {
+        "title": "The Greatest Story Ever Told",
+        "year": 1965,
+        "duration": 260,
+        "id": 59245
+    },
+    {
+        "title": "The Hill",
+        "year": 1965,
+        "duration": 123,
+        "id": 59274
+    },
+    {
+        "title": "In Harm's Way",
+        "year": 1965,
+        "duration": 165,
+        "id": 59309
+    },
+    {
+        "title": "For a Few Dollars More",
+        "year": 1965,
+        "duration": 132,
+        "id": 59578
+    },
+    {
+        "title": "The Sons of Katie Elder",
+        "year": 1965,
+        "duration": 122,
+        "id": 59740
+    },
+    {
+        "title": "Thunderball",
+        "year": 1965,
+        "duration": 130,
+        "id": 59800
+    },
+    {
+        "title": "The Good, the Bad and the Ugly",
+        "year": 1966,
+        "duration": 161,
+        "id": 60196
+    },
+    {
+        "title": "Cast a Giant Shadow",
+        "year": 1966,
+        "duration": 146,
+        "id": 60218
+    },
+    {
+        "title": "Dead Heat on a Merry-Go-Round",
+        "year": 1966,
+        "duration": 104,
+        "id": 60287
+    },
+    {
+        "title": "A Fine Madness",
+        "year": 1966,
+        "duration": 104,
+        "id": 60414
+    },
+    {
+        "title": "Nevada Smith",
+        "year": 1966,
+        "duration": 128,
+        "id": 60748
+    },
+    {
+        "title": "The Sand Pebbles",
+        "year": 1966,
+        "duration": 182,
+        "id": 60934
+    },
+    {
+        "title": "The Witches",
+        "year": 1967,
+        "duration": 111,
+        "id": 61037
+    },
+    {
+        "title": "Torn Curtain",
+        "year": 1966,
+        "duration": 128,
+        "id": 61107
+    },
+    {
+        "title": "Un monde nouveau",
+        "year": 1966,
+        "duration": 83,
+        "id": 61139
+    },
+    {
+        "title": "The Big Shave",
+        "year": 1967,
+        "duration": 6,
+        "id": 61402
+    },
+    {
+        "title": "El Dorado",
+        "year": 1967,
+        "duration": 126,
+        "id": 61619
+    },
+    {
+        "title": "Hang 'Em High",
+        "year": 1968,
+        "duration": 114,
+        "id": 61747
+    },
+    {
+        "title": "Luv",
+        "year": 1967,
+        "duration": 93,
+        "id": 61927
+    },
+    {
+        "title": "A Time for Killing",
+        "year": 1967,
+        "duration": 88,
+        "id": 62373
+    },
+    {
+        "title": "The War Wagon",
+        "year": 1967,
+        "duration": 101,
+        "id": 62472
+    },
+    {
+        "title": "You Only Live Twice",
+        "year": 1967,
+        "duration": 117,
+        "id": 62512
+    },
+    {
+        "title": "Bullitt",
+        "year": 1968,
+        "duration": 114,
+        "id": 62765
+    },
+    {
+        "title": "Coogan's Bluff",
+        "year": 1968,
+        "duration": 93,
+        "id": 62824
+    },
+    {
+        "title": "The Green Berets",
+        "year": 1968,
+        "duration": 142,
+        "id": 63035
+    },
+    {
+        "title": "Greetings",
+        "year": 1968,
+        "duration": 88,
+        "id": 63036
+    },
+    {
+        "title": "Hellfighters",
+        "year": 1968,
+        "duration": 121,
+        "id": 63060
+    },
+    {
+        "title": "Journey to Shiloh",
+        "year": 1968,
+        "duration": 101,
+        "id": 63161
+    },
+    {
+        "title": "Shalako",
+        "year": 1968,
+        "duration": 113,
+        "id": 63592
+    },
+    {
+        "title": "The Thomas Crown Affair",
+        "year": 1968,
+        "duration": 102,
+        "id": 63688
+    },
+    {
+        "title": "Who's That Knocking at My Door",
+        "year": 1967,
+        "duration": 90,
+        "id": 63803
+    },
+    {
+        "title": "Amblin'",
+        "year": 1968,
+        "duration": 26,
+        "id": 64010
+    },
+    {
+        "title": "On Her Majesty's Secret Service",
+        "year": 1969,
+        "duration": 142,
+        "id": 64757
+    },
+    {
+        "title": "Paint Your Wagon",
+        "year": 1969,
+        "duration": 164,
+        "id": 64782
+    },
+    {
+        "title": "The Reivers",
+        "year": 1969,
+        "duration": 112,
+        "id": 64886
+    },
+    {
+        "title": "Topaz",
+        "year": 1969,
+        "duration": 143,
+        "id": 65112
+    },
+    {
+        "title": "True Grit",
+        "year": 1969,
+        "duration": 128,
+        "id": 65126
+    },
+    {
+        "title": "Two Mules for Sister Sara",
+        "year": 1970,
+        "duration": 116,
+        "id": 65134
+    },
+    {
+        "title": "The Undefeated",
+        "year": 1969,
+        "duration": 119,
+        "id": 65150
+    },
+    {
+        "title": "The Wedding Party",
+        "year": 1969,
+        "duration": 92,
+        "id": 65198
+    },
+    {
+        "title": "Where Eagles Dare",
+        "year": 1968,
+        "duration": 158,
+        "id": 65207
+    },
+    {
+        "title": "Chisum",
+        "year": 1970,
+        "duration": 111,
+        "id": 65547
+    },
+    {
+        "title": "Dionysus in '69",
+        "year": 1970,
+        "duration": 85,
+        "id": 65641
+    },
+    {
+        "title": "Getting Straight",
+        "year": 1970,
+        "duration": 124,
+        "id": 65775
+    },
+    {
+        "title": "Hercules in New York",
+        "year": 1970,
+        "duration": 91,
+        "id": 65832
+    },
+    {
+        "title": "Hi, Mom!",
+        "year": 1970,
+        "duration": 87,
+        "id": 65836
+    },
+    {
+        "title": "The Party at Kitty and Stud's",
+        "year": 1970,
+        "duration": 71,
+        "id": 65904
+    },
+    {
+        "title": "Kelly's Heroes",
+        "year": 1970,
+        "duration": 144,
+        "id": 65938
+    },
+    {
+        "title": "The Molly Maguires",
+        "year": 1970,
+        "duration": 124,
+        "id": 66090
+    },
+    {
+        "title": "No Place to Hide",
+        "year": 1973,
+        "duration": 80,
+        "id": 66156
+    },
+    {
+        "title": "Rio Lobo",
+        "year": 1970,
+        "duration": 114,
+        "id": 66301
+    },
+    {
+        "title": "Street Scenes",
+        "year": 1970,
+        "duration": 75,
+        "id": 66416
+    },
+    {
+        "title": "Zabriskie Point",
+        "year": 1970,
+        "duration": 113,
+        "id": 66601
+    },
+    {
+        "title": "The Anderson Tapes",
+        "year": 1971,
+        "duration": 99,
+        "id": 66767
+    },
+    {
+        "title": "Bananas",
+        "year": 1971,
+        "duration": 82,
+        "id": 66808
+    },
+    {
+        "title": "The Beguiled",
+        "year": 1971,
+        "duration": 105,
+        "id": 66819
+    },
+    {
+        "title": "Big Jake",
+        "year": 1971,
+        "duration": 110,
+        "id": 66831
+    },
+    {
+        "title": "Diamonds Are Forever",
+        "year": 1971,
+        "duration": 120,
+        "id": 66995
+    },
+    {
+        "title": "Dirty Harry",
+        "year": 1971,
+        "duration": 102,
+        "id": 66999
+    },
+    {
+        "title": "The Red Tent",
+        "year": 1969,
+        "duration": 158,
+        "id": 67315
+    },
+    {
+        "title": "Le Mans",
+        "year": 1971,
+        "duration": 106,
+        "id": 67334
+    },
+    {
+        "title": "The Sidelong Glances of a Pigeon Kicker",
+        "year": 1970,
+        "duration": 106,
+        "id": 67576
+    },
+    {
+        "title": "Play Misty for Me",
+        "year": 1971,
+        "duration": 102,
+        "id": 67588
+    },
+    {
+        "title": "Boxcar Bertha",
+        "year": 1972,
+        "duration": 88,
+        "id": 68309
+    },
+    {
+        "title": "Cancel My Reservation",
+        "year": 1972,
+        "duration": 99,
+        "id": 68332
+    },
+    {
+        "title": "The Cowboys",
+        "year": 1972,
+        "duration": 134,
+        "id": 68421
+    },
+    {
+        "title": "Frenzy",
+        "year": 1972,
+        "duration": 116,
+        "id": 68611
+    },
+    {
+        "title": "Get to Know Your Rabbit",
+        "year": 1972,
+        "duration": 91,
+        "id": 68637
+    },
+    {
+        "title": "The Getaway",
+        "year": 1972,
+        "duration": 123,
+        "id": 68638
+    },
+    {
+        "title": "High Plains Drifter",
+        "year": 1973,
+        "duration": 105,
+        "id": 68699
+    },
+    {
+        "title": "Joe Kidd",
+        "year": 1972,
+        "duration": 88,
+        "id": 68768
+    },
+    {
+        "title": "Junior Bonner",
+        "year": 1972,
+        "duration": 100,
+        "id": 68786
+    },
+    {
+        "title": "American Graffiti",
+        "year": 1973,
+        "duration": 110,
+        "id": 69704
+    },
+    {
+        "title": "Breezy",
+        "year": 1973,
+        "duration": 106,
+        "id": 69822
+    },
+    {
+        "title": "Cahill U.S. Marshal",
+        "year": 1973,
+        "duration": 103,
+        "id": 69834
+    },
+    {
+        "title": "Live and Let Die",
+        "year": 1973,
+        "duration": 121,
+        "id": 70328
+    },
+    {
+        "title": "The Long Goodbye",
+        "year": 1973,
+        "duration": 112,
+        "id": 70334
+    },
+    {
+        "title": "Magnum Force",
+        "year": 1973,
+        "duration": 124,
+        "id": 70355
+    },
+    {
+        "title": "Mean Streets",
+        "year": 1973,
+        "duration": 112,
+        "id": 70379
+    },
+    {
+        "title": "The Offence",
+        "year": 1973,
+        "duration": 112,
+        "id": 70468
+    },
+    {
+        "title": "Papillon",
+        "year": 1973,
+        "duration": 151,
+        "id": 70511
+    },
+    {
+        "title": "Sisters",
+        "year": 1972,
+        "duration": 93,
+        "id": 70698
+    },
+    {
+        "title": "The Young Dragons",
+        "year": 1974,
+        "duration": 95,
+        "id": 70801
+    },
+    {
+        "title": "The Train Robbers",
+        "year": 1973,
+        "duration": 92,
+        "id": 70825
+    },
+    {
+        "title": "Zardoz",
+        "year": 1974,
+        "duration": 105,
+        "id": 70948
+    },
+    {
+        "title": "Alice Doesn't Live Here Anymore",
+        "year": 1974,
+        "duration": 112,
+        "id": 71115
+    },
+    {
+        "title": "The Conversation",
+        "year": 1974,
+        "duration": 113,
+        "id": 71360
+    },
+    {
+        "title": "Italianamerican",
+        "year": 1974,
+        "duration": 49,
+        "id": 71680
+    },
+    {
+        "title": "The Lords of Flatbush",
+        "year": 1974,
+        "duration": 86,
+        "id": 71772
+    },
+    {
+        "title": "The Man with the Golden Gun",
+        "year": 1974,
+        "duration": 125,
+        "id": 71807
+    },
+    {
+        "title": "McQ",
+        "year": 1974,
+        "duration": 111,
+        "id": 71824
+    },
+    {
+        "title": "Murder on the Orient Express",
+        "year": 1974,
+        "duration": 128,
+        "id": 71877
+    },
+    {
+        "title": "The Dragon Tamers",
+        "year": 1975,
+        "duration": 107,
+        "id": 71930
+    },
+    {
+        "title": "Phantom of the Paradise",
+        "year": 1974,
+        "duration": 91,
+        "id": 71994
+    },
+    {
+        "title": "The Prisoner of Second Avenue",
+        "year": 1975,
+        "duration": 98,
+        "id": 72034
+    },
+    {
+        "title": "The Sugarland Express",
+        "year": 1974,
+        "duration": 110,
+        "id": 72226
+    },
+    {
+        "title": "Thunderbolt and Lightfoot",
+        "year": 1974,
+        "duration": 115,
+        "id": 72288
+    },
+    {
+        "title": "The Towering Inferno",
+        "year": 1974,
+        "duration": 165,
+        "id": 72308
+    },
+    {
+        "title": "Brannigan",
+        "year": 1975,
+        "duration": 111,
+        "id": 72732
+    },
+    {
+        "title": "Capone",
+        "year": 1975,
+        "duration": 101,
+        "id": 72761
+    },
+    {
+        "title": "Death Race 2000",
+        "year": 1975,
+        "duration": 80,
+        "id": 72856
+    },
+    {
+        "title": "Princess Chang Ping",
+        "year": 1976,
+        "duration": 102,
+        "id": 72872
+    },
+    {
+        "title": "The Eiger Sanction",
+        "year": 1975,
+        "duration": 129,
+        "id": 72926
+    },
+    {
+        "title": "Farewell, My Lovely",
+        "year": 1975,
+        "duration": 95,
+        "id": 72973
+    },
+    {
+        "title": "Jaws",
+        "year": 1975,
+        "duration": 124,
+        "id": 73195
+    },
+    {
+        "title": "The Man Who Would Be King",
+        "year": 1975,
+        "duration": 129,
+        "id": 73341
+    },
+    {
+        "title": "Rooster Cogburn",
+        "year": 1975,
+        "duration": 108,
+        "id": 73636
+    },
+    {
+        "title": "The Hand of Death",
+        "year": 1976,
+        "duration": 95,
+        "id": 73694
+    },
+    {
+        "title": "The Terrorists",
+        "year": 1974,
+        "duration": 89,
+        "id": 73796
+    },
+    {
+        "title": "The Wind and the Lion",
+        "year": 1975,
+        "duration": 119,
+        "id": 73906
+    },
+    {
+        "title": "Cannonball!",
+        "year": 1976,
+        "duration": 93,
+        "id": 74279
+    },
+    {
+        "title": "Carrie",
+        "year": 1976,
+        "duration": 98,
+        "id": 74285
+    },
+    {
+        "title": "Dixie Dynamite",
+        "year": 1976,
+        "duration": 88,
+        "id": 74415
+    },
+    {
+        "title": "The Enforcer",
+        "year": 1976,
+        "duration": 96,
+        "id": 74483
+    },
+    {
+        "title": "Family Plot",
+        "year": 1976,
+        "duration": 120,
+        "id": 74512
+    },
+    {
+        "title": "The Next Man",
+        "year": 1976,
+        "duration": 108,
+        "id": 74962
+    },
+    {
+        "title": "Obsession",
+        "year": 1976,
+        "duration": 98,
+        "id": 74991
+    },
+    {
+        "title": "The Outlaw Josey Wales",
+        "year": 1976,
+        "duration": 135,
+        "id": 75029
+    },
+    {
+        "title": "Robin and Marian",
+        "year": 1976,
+        "duration": 106,
+        "id": 75147
+    },
+    {
+        "title": "Rocky",
+        "year": 1976,
+        "duration": 120,
+        "id": 75148
+    },
+    {
+        "title": "The Shootist",
+        "year": 1976,
+        "duration": 100,
+        "id": 75213
+    },
+    {
+        "title": "Stay Hungry",
+        "year": 1976,
+        "duration": 102,
+        "id": 75268
+    },
+    {
+        "title": "Taxi Driver",
+        "year": 1976,
+        "duration": 114,
+        "id": 75314
+    },
+    {
+        "title": "A Bridge Too Far",
+        "year": 1977,
+        "duration": 175,
+        "id": 75784
+    },
+    {
+        "title": "Close Encounters of the Third Kind",
+        "year": 1977,
+        "duration": 138,
+        "id": 75860
+    },
+    {
+        "title": "Da sha xing yu xiao mei tou",
+        "year": 1978,
+        "duration": 90,
+        "id": 75906
+    },
+    {
+        "title": "The Duellists",
+        "year": 1977,
+        "duration": 100,
+        "id": 75968
+    },
+    {
+        "title": "An Enemy of the People",
+        "year": 1978,
+        "duration": 103,
+        "id": 75993
+    },
+    {
+        "title": "Money Crazy",
+        "year": 1977,
+        "duration": 92,
+        "id": 76012
+    },
+    {
+        "title": "The Gauntlet",
+        "year": 1977,
+        "duration": 109,
+        "id": 76070
+    },
+    {
+        "title": "Heroes",
+        "year": 1977,
+        "duration": 112,
+        "id": 76138
+    },
+    {
+        "title": "It's Murder!",
+        "year": 1977,
+        "duration": 70,
+        "id": 76216
+    },
+    {
+        "title": "New York, New York",
+        "year": 1977,
+        "duration": 155,
+        "id": 76451
+    },
+    {
+        "title": "Qian zuo guai",
+        "year": 1980,
+        "duration": 101,
+        "id": 76580
+    },
+    {
+        "title": "The Spy Who Loved Me",
+        "year": 1977,
+        "duration": 125,
+        "id": 76752
+    },
+    {
+        "title": "Star Wars: Episode IV - A New Hope",
+        "year": 1977,
+        "duration": 121,
+        "id": 76759
+    },
+    {
+        "title": "American Boy: A Profile of - Steven Prince",
+        "year": 1978,
+        "duration": 55,
+        "id": 77157
+    },
+    {
+        "title": "Clockwork",
+        "year": 1978,
+        "duration": 7,
+        "id": 77344
+    },
+    {
+        "title": "Every Which Way but Loose",
+        "year": 1978,
+        "duration": 114,
+        "id": 77523
+    },
+    {
+        "title": "F.I.S.T.",
+        "year": 1978,
+        "duration": 145,
+        "id": 77531
+    },
+    {
+        "title": "Force 10 from Navarone",
+        "year": 1978,
+        "duration": 118,
+        "id": 77572
+    },
+    {
+        "title": "The Fury",
+        "year": 1978,
+        "duration": 118,
+        "id": 77588
+    },
+    {
+        "title": "Last Hurrah for Chivalry",
+        "year": 1979,
+        "duration": 106,
+        "id": 77655
+    },
+    {
+        "title": "Ha luo, ye gui ren",
+        "year": 1978,
+        "duration": null,
+        "id": 77667
+    },
+    {
+        "title": "The Last Waltz",
+        "year": 1978,
+        "duration": 117,
+        "id": 77838
+    },
+    {
+        "title": "Paradise Alley",
+        "year": 1978,
+        "duration": 107,
+        "id": 78056
+    },
+    {
+        "title": "Within the Woods",
+        "year": 1978,
+        "duration": 31,
+        "id": 78503
+    },
+    {
+        "title": "1941",
+        "year": 1979,
+        "duration": 118,
+        "id": 78723
+    },
+    {
+        "title": "Alien",
+        "year": 1979,
+        "duration": 117,
+        "id": 78748
+    },
+    {
+        "title": "Apocalypse Now",
+        "year": 1979,
+        "duration": 147,
+        "id": 78788
+    },
+    {
+        "title": "Cuba",
+        "year": 1979,
+        "duration": 122,
+        "id": 79013
+    },
+    {
+        "title": "Escape from Alcatraz",
+        "year": 1979,
+        "duration": 112,
+        "id": 79116
+    },
+    {
+        "title": "The Frisco Kid",
+        "year": 1979,
+        "duration": 119,
+        "id": 79180
+    },
+    {
+        "title": "The Great Train Robbery",
+        "year": 1978,
+        "duration": 110,
+        "id": 79240
+    },
+    {
+        "title": "Hanover Street",
+        "year": 1979,
+        "duration": 109,
+        "id": 79268
+    },
+    {
+        "title": "Home movies",
+        "year": 1979,
+        "duration": 90,
+        "id": 79302
+    },
+    {
+        "title": "Meteor",
+        "year": 1979,
+        "duration": 108,
+        "id": 79550
+    },
+    {
+        "title": "Moonraker",
+        "year": 1979,
+        "duration": 126,
+        "id": 79574
+    },
+    {
+        "title": "More American Graffiti",
+        "year": 1979,
+        "duration": 110,
+        "id": 79576
+    },
+    {
+        "title": "Rocky II",
+        "year": 1979,
+        "duration": 119,
+        "id": 79817
+    },
+    {
+        "title": "Scavenger Hunt",
+        "year": 1979,
+        "duration": 116,
+        "id": 79858
+    },
+    {
+        "title": "Itchy Fingers",
+        "year": 1979,
+        "duration": 96,
+        "id": 79900
+    },
+    {
+        "title": "Tom Horn",
+        "year": 1980,
+        "duration": 98,
+        "id": 80031
+    },
+    {
+        "title": "The Villain",
+        "year": 1979,
+        "duration": 89,
+        "id": 80097
+    },
+    {
+        "title": "Woman in a Twilight Garden",
+        "year": 1979,
+        "duration": 111,
+        "id": 80110
+    },
+    {
+        "title": "Any Which Way You Can",
+        "year": 1980,
+        "duration": 116,
+        "id": 80377
+    },
+    {
+        "title": "The Blues Brothers",
+        "year": 1980,
+        "duration": 133,
+        "id": 80455
+    },
+    {
+        "title": "Bronco Billy",
+        "year": 1980,
+        "duration": 116,
+        "id": 80472
+    },
+    {
+        "title": "Dressed to Kill",
+        "year": 1980,
+        "duration": 104,
+        "id": 80661
+    },
+    {
+        "title": "Star Wars: Episode V - The Empire Strikes Back",
+        "year": 1980,
+        "duration": 124,
+        "id": 80684
+    },
+    {
+        "title": "He Knows You're Alone",
+        "year": 1980,
+        "duration": 94,
+        "id": 80850
+    },
+    {
+        "title": "The Hunter",
+        "year": 1980,
+        "duration": 97,
+        "id": 80907
+    },
+    {
+        "title": "Raging Bull",
+        "year": 1980,
+        "duration": 129,
+        "id": 81398
+    },
+    {
+        "title": "Time Bandits",
+        "year": 1981,
+        "duration": 116,
+        "id": 81633
+    },
+    {
+        "title": "Blow Out",
+        "year": 1981,
+        "duration": 108,
+        "id": 82085
+    },
+    {
+        "title": "Conan the Barbarian",
+        "year": 1982,
+        "duration": 129,
+        "id": 82198
+    },
+    {
+        "title": "For Your Eyes Only",
+        "year": 1981,
+        "duration": 127,
+        "id": 82398
+    },
+    {
+        "title": "Hua ji shi dai",
+        "year": 1981,
+        "duration": 101,
+        "id": 82535
+    },
+    {
+        "title": "Mo deng tian shi",
+        "year": 1982,
+        "duration": 88,
+        "id": 82762
+    },
+    {
+        "title": "Nighthawks",
+        "year": 1981,
+        "duration": 99,
+        "id": 82817
+    },
+    {
+        "title": "Outland",
+        "year": 1981,
+        "duration": 109,
+        "id": 82869
+    },
+    {
+        "title": "Il pap'occhio",
+        "year": 1980,
+        "duration": 110,
+        "id": 82880
+    },
+    {
+        "title": "Piranha II: The Spawning",
+        "year": 1981,
+        "duration": 94,
+        "id": 82910
+    },
+    {
+        "title": "Raiders of the Lost Ark",
+        "year": 1981,
+        "duration": 115,
+        "id": 82971
+    },
+    {
+        "title": "Victory",
+        "year": 1981,
+        "duration": 116,
+        "id": 83284
+    },
+    {
+        "title": "Ba cai Lin Ya Zhen",
+        "year": 1982,
+        "duration": 86,
+        "id": 83605
+    },
+    {
+        "title": "Blade Runner",
+        "year": 1982,
+        "duration": 117,
+        "id": 83658
+    },
+    {
+        "title": "E.T. the Extra-Terrestrial",
+        "year": 1982,
+        "duration": 115,
+        "id": 83866
+    },
+    {
+        "title": "The Evil Dead",
+        "year": 1981,
+        "duration": 85,
+        "id": 83907
+    },
+    {
+        "title": "Firefox",
+        "year": 1982,
+        "duration": 136,
+        "id": 83943
+    },
+    {
+        "title": "First Blood",
+        "year": 1982,
+        "duration": 93,
+        "id": 83944
+    },
+    {
+        "title": "Five Days One Summer",
+        "year": 1982,
+        "duration": 96,
+        "id": 83947
+    },
+    {
+        "title": "Honkytonk Man",
+        "year": 1982,
+        "duration": 122,
+        "id": 84088
+    },
+    {
+        "title": "Rocky III",
+        "year": 1982,
+        "duration": 99,
+        "id": 84602
+    },
+    {
+        "title": "Sword of the Valiant: The Legend of Sir Gawain and the Green Knight",
+        "year": 1984,
+        "duration": 102,
+        "id": 84750
+    },
+    {
+        "title": "Wrong Is Right",
+        "year": 1982,
+        "duration": 117,
+        "id": 84920
+    },
+    {
+        "title": "The King of Comedy",
+        "year": 1982,
+        "duration": 109,
+        "id": 85794
+    },
+    {
+        "title": "Never Say Never Again",
+        "year": 1983,
+        "duration": 134,
+        "id": 86006
+    },
+    {
+        "title": "Octopussy",
+        "year": 1983,
+        "duration": 131,
+        "id": 86034
+    },
+    {
+        "title": "Star Wars: Episode VI - Return of the Jedi",
+        "year": 1983,
+        "duration": 131,
+        "id": 86190
+    },
+    {
+        "title": "Scarface",
+        "year": 1983,
+        "duration": 170,
+        "id": 86250
+    },
+    {
+        "title": "Staying Alive",
+        "year": 1983,
+        "duration": 93,
+        "id": 86361
+    },
+    {
+        "title": "Sudden Impact",
+        "year": 1983,
+        "duration": 117,
+        "id": 86383
+    },
+    {
+        "title": "Twilight Zone: The Movie",
+        "year": 1983,
+        "duration": 101,
+        "id": 86491
+    },
+    {
+        "title": "Bachelor Party",
+        "year": 1984,
+        "duration": 105,
+        "id": 86927
+    },
+    {
+        "title": "Blood Simple",
+        "year": 1984,
+        "duration": 99,
+        "id": 86979
+    },
+    {
+        "title": "Body Double",
+        "year": 1984,
+        "duration": 114,
+        "id": 86984
+    },
+    {
+        "title": "Breakin'",
+        "year": 1984,
+        "duration": 90,
+        "id": 86998
+    },
+    {
+        "title": "City Heat",
+        "year": 1984,
+        "duration": 93,
+        "id": 87062
+    },
+    {
+        "title": "Conan the Destroyer",
+        "year": 1984,
+        "duration": 103,
+        "id": 87078
+    },
+    {
+        "title": "Gremlins",
+        "year": 1984,
+        "duration": 106,
+        "id": 87363
+    },
+    {
+        "title": "Indiana Jones and the Temple of Doom",
+        "year": 1984,
+        "duration": 118,
+        "id": 87469
+    },
+    {
+        "title": "Missing in Action",
+        "year": 1984,
+        "duration": 101,
+        "id": 87727
+    },
+    {
+        "title": "Monaco Forever",
+        "year": 1984,
+        "duration": 48,
+        "id": 87739
+    },
+    {
+        "title": "Rhinestone",
+        "year": 1984,
+        "duration": 111,
+        "id": 88001
+    },
+    {
+        "title": "Splash",
+        "year": 1984,
+        "duration": 111,
+        "id": 88161
+    },
+    {
+        "title": "The Terminator",
+        "year": 1984,
+        "duration": 107,
+        "id": 88247
+    },
+    {
+        "title": "I Love Maria",
+        "year": 1988,
+        "duration": 96,
+        "id": 88269
+    },
+    {
+        "title": "Tightrope",
+        "year": 1984,
+        "duration": 114,
+        "id": 88272
+    },
+    {
+        "title": "Xiao jiang",
+        "year": 1985,
+        "duration": 91,
+        "id": 88421
+    },
+    {
+        "title": "After Hours",
+        "year": 1985,
+        "duration": 97,
+        "id": 88680
+    },
+    {
+        "title": "The Color Purple",
+        "year": 1985,
+        "duration": 154,
+        "id": 88939
+    },
+    {
+        "title": "Commando",
+        "year": 1985,
+        "duration": 90,
+        "id": 88944
+    },
+    {
+        "title": "Crimewave",
+        "year": 1985,
+        "duration": 83,
+        "id": 88967
+    },
+    {
+        "title": "Heng cai san qian wan",
+        "year": 1987,
+        "duration": 93,
+        "id": 89270
+    },
+    {
+        "title": "Legend",
+        "year": 1985,
+        "duration": 94,
+        "id": 89469
+    },
+    {
+        "title": "Run Tiger, Run",
+        "year": 1985,
+        "duration": 91,
+        "id": 89482
+    },
+    {
+        "title": "The Man with One Red Shoe",
+        "year": 1985,
+        "duration": 92,
+        "id": 89543
+    },
+    {
+        "title": "No Retreat, No Surrender",
+        "year": 1986,
+        "duration": 85,
+        "id": 89695
+    },
+    {
+        "title": "Pale Rider",
+        "year": 1985,
+        "duration": 115,
+        "id": 89767
+    },
+    {
+        "title": "Rambo: First Blood Part II",
+        "year": 1985,
+        "duration": 96,
+        "id": 89880
+    },
+    {
+        "title": "Red Sonja",
+        "year": 1985,
+        "duration": 89,
+        "id": 89893
+    },
+    {
+        "title": "Rocky IV",
+        "year": 1985,
+        "duration": 91,
+        "id": 89927
+    },
+    {
+        "title": "Spies Like Us",
+        "year": 1985,
+        "duration": 102,
+        "id": 90056
+    },
+    {
+        "title": "Thou Shalt Not Kill... Except",
+        "year": 1985,
+        "duration": 84,
+        "id": 90093
+    },
+    {
+        "title": "A View to a Kill",
+        "year": 1985,
+        "duration": 131,
+        "id": 90264
+    },
+    {
+        "title": "Volunteers",
+        "year": 1985,
+        "duration": 107,
+        "id": 90274
+    },
+    {
+        "title": "Witness",
+        "year": 1985,
+        "duration": 112,
+        "id": 90329
+    },
+    {
+        "title": "'Round Midnight",
+        "year": 1986,
+        "duration": 133,
+        "id": 90557
+    },
+    {
+        "title": "Aliens",
+        "year": 1986,
+        "duration": 137,
+        "id": 90605
+    },
+    {
+        "title": "Cobra",
+        "year": 1986,
+        "duration": 87,
+        "id": 90859
+    },
+    {
+        "title": "The Color of Money",
+        "year": 1986,
+        "duration": 119,
+        "id": 90863
+    },
+    {
+        "title": "Every Time We Say Goodbye",
+        "year": 1986,
+        "duration": 95,
+        "id": 91019
+    },
+    {
+        "title": "Heartbreak Ridge",
+        "year": 1986,
+        "duration": 130,
+        "id": 91187
+    },
+    {
+        "title": "Highlander",
+        "year": 1986,
+        "duration": 116,
+        "id": 91203
+    },
+    {
+        "title": "The Money Pit",
+        "year": 1986,
+        "duration": 91,
+        "id": 91541
+    },
+    {
+        "title": "The Mosquito Coast",
+        "year": 1986,
+        "duration": 117,
+        "id": 91557
+    },
+    {
+        "title": "The Name of the Rose",
+        "year": 1986,
+        "duration": 130,
+        "id": 91605
+    },
+    {
+        "title": "Nothing in Common",
+        "year": 1986,
+        "duration": 118,
+        "id": 91653
+    },
+    {
+        "title": "Raw Deal",
+        "year": 1986,
+        "duration": 106,
+        "id": 91828
+    },
+    {
+        "title": "SpaceCamp",
+        "year": 1986,
+        "duration": 107,
+        "id": 91993
+    },
+    {
+        "title": "Wise Guys",
+        "year": 1986,
+        "duration": 100,
+        "id": 92226
+    },
+    {
+        "title": "A Better Tomorrow",
+        "year": 1986,
+        "duration": 95,
+        "id": 92263
+    },
+    {
+        "title": "Heroes Shed No Tears",
+        "year": 1984,
+        "duration": 93,
+        "id": 92264
+    },
+    {
+        "title": "Bad Taste",
+        "year": 1987,
+        "duration": 91,
+        "id": 92610
+    },
+    {
+        "title": "Bloodsport",
+        "year": 1988,
+        "duration": 92,
+        "id": 92675
+    },
+    {
+        "title": "Dragnet",
+        "year": 1987,
+        "duration": 106,
+        "id": 92925
+    },
+    {
+        "title": "Empire of the Sun",
+        "year": 1987,
+        "duration": 153,
+        "id": 92965
+    },
+    {
+        "title": "Evil Dead II",
+        "year": 1987,
+        "duration": 84,
+        "id": 92991
+    },
+    {
+        "title": "The Living Daylights",
+        "year": 1987,
+        "duration": 130,
+        "id": 93428
+    },
+    {
+        "title": "Over the Top",
+        "year": 1987,
+        "duration": 93,
+        "id": 93692
+    },
+    {
+        "title": "Predator",
+        "year": 1987,
+        "duration": 107,
+        "id": 93773
+    },
+    {
+        "title": "Raising Arizona",
+        "year": 1987,
+        "duration": 94,
+        "id": 93822
+    },
+    {
+        "title": "The Running Man",
+        "year": 1987,
+        "duration": 101,
+        "id": 93894
+    },
+    {
+        "title": "Russkies",
+        "year": 1987,
+        "duration": 99,
+        "id": 93898
+    },
+    {
+        "title": "Someone to Watch Over Me",
+        "year": 1987,
+        "duration": 106,
+        "id": 94008
+    },
+    {
+        "title": "The Untouchables",
+        "year": 1987,
+        "duration": 119,
+        "id": 94226
+    },
+    {
+        "title": "Just Heroes",
+        "year": 1989,
+        "duration": 97,
+        "id": 94351
+    },
+    {
+        "title": "A Better Tomorrow II",
+        "year": 1987,
+        "duration": 105,
+        "id": 94357
+    },
+    {
+        "title": "Big",
+        "year": 1988,
+        "duration": 104,
+        "id": 94737
+    },
+    {
+        "title": "Bird",
+        "year": 1988,
+        "duration": 161,
+        "id": 94747
+    },
+    {
+        "title": "Black Eagle",
+        "year": 1988,
+        "duration": 93,
+        "id": 94750
+    },
+    {
+        "title": "The Dead Pool",
+        "year": 1988,
+        "duration": 91,
+        "id": 94963
+    },
+    {
+        "title": "Frantic",
+        "year": 1988,
+        "duration": 120,
+        "id": 95174
+    },
+    {
+        "title": "Intruder",
+        "year": 1989,
+        "duration": 83,
+        "id": 95379
+    },
+    {
+        "title": "Starry is the Night",
+        "year": 1988,
+        "duration": 94,
+        "id": 95405
+    },
+    {
+        "title": "The Last Temptation of Christ",
+        "year": 1988,
+        "duration": 164,
+        "id": 95497
+    },
+    {
+        "title": "Maniac Cop",
+        "year": 1988,
+        "duration": 85,
+        "id": 95583
+    },
+    {
+        "title": "Memories of Me",
+        "year": 1988,
+        "duration": 105,
+        "id": 95613
+    },
+    {
+        "title": "The Presidio",
+        "year": 1988,
+        "duration": 97,
+        "id": 95897
+    },
+    {
+        "title": "Punchline",
+        "year": 1988,
+        "duration": 128,
+        "id": 95927
+    },
+    {
+        "title": "Rambo III",
+        "year": 1988,
+        "duration": 102,
+        "id": 95956
+    },
+    {
+        "title": "Red Heat",
+        "year": 1988,
+        "duration": 104,
+        "id": 95963
+    },
+    {
+        "title": "Twins",
+        "year": 1988,
+        "duration": 107,
+        "id": 96320
+    },
+    {
+        "title": "Working Girl",
+        "year": 1988,
+        "duration": 113,
+        "id": 96463
+    },
+    {
+        "title": "The 'Burbs",
+        "year": 1989,
+        "duration": 102,
+        "id": 96734
+    },
+    {
+        "title": "The Abyss",
+        "year": 1989,
+        "duration": 171,
+        "id": 96754
+    },
+    {
+        "title": "Always",
+        "year": 1989,
+        "duration": 122,
+        "id": 96794
+    },
+    {
+        "title": "Black Rain",
+        "year": 1989,
+        "duration": 125,
+        "id": 96933
+    },
+    {
+        "title": "Bruce Springsteen: Video Anthology 1978-1988",
+        "year": 1989,
+        "duration": 100,
+        "id": 96987
+    },
+    {
+        "title": "Casualties of War",
+        "year": 1989,
+        "duration": 113,
+        "id": 97027
+    },
+    {
+        "title": "Cyborg",
+        "year": 1989,
+        "duration": 86,
+        "id": 97138
+    },
+    {
+        "title": "The Killer",
+        "year": 1989,
+        "duration": 111,
+        "id": 97202
+    },
+    {
+        "title": "Family Business",
+        "year": 1989,
+        "duration": 110,
+        "id": 97328
+    },
+    {
+        "title": "Indiana Jones and the Last Crusade",
+        "year": 1989,
+        "duration": 127,
+        "id": 97576
+    },
+    {
+        "title": "Kickboxer",
+        "year": 1989,
+        "duration": 97,
+        "id": 97659
+    },
+    {
+        "title": "Licence to Kill",
+        "year": 1989,
+        "duration": 133,
+        "id": 97742
+    },
+    {
+        "title": "Lock Up",
+        "year": 1989,
+        "duration": 109,
+        "id": 97770
+    },
+    {
+        "title": "Meet the Feebles",
+        "year": 1989,
+        "duration": 97,
+        "id": 97858
+    },
+    {
+        "title": "New York Stories",
+        "year": 1989,
+        "duration": 124,
+        "id": 97965
+    },
+    {
+        "title": "Parenthood",
+        "year": 1989,
+        "duration": 124,
+        "id": 98067
+    },
+    {
+        "title": "Pink Cadillac",
+        "year": 1989,
+        "duration": 122,
+        "id": 98097
+    },
+    {
+        "title": "Tango & Cash",
+        "year": 1989,
+        "duration": 104,
+        "id": 98439
+    },
+    {
+        "title": "Turner & Hooch",
+        "year": 1989,
+        "duration": 97,
+        "id": 98536
+    },
+    {
+        "title": "Tiny Toon Adventures",
+        "year": 1990,
+        "duration": 21,
+        "id": 98929
+    },
+    {
+        "title": "Awakenings",
+        "year": 1990,
+        "duration": 121,
+        "id": 99077
+    },
+    {
+        "title": "The Bonfire of the Vanities",
+        "year": 1990,
+        "duration": 125,
+        "id": 99165
+    },
+    {
+        "title": "Darkman",
+        "year": 1990,
+        "duration": 96,
+        "id": 99365
+    },
+    {
+        "title": "Death Warrant",
+        "year": 1990,
+        "duration": 89,
+        "id": 99385
+    },
+    {
+        "title": "Bullet in the Head",
+        "year": 1990,
+        "duration": 136,
+        "id": 99426
+    },
+    {
+        "title": "Goodfellas",
+        "year": 1990,
+        "duration": 146,
+        "id": 99685
+    },
+    {
+        "title": "The Grifters",
+        "year": 1990,
+        "duration": 110,
+        "id": 99703
+    },
+    {
+        "title": "The Hunt for Red October",
+        "year": 1990,
+        "duration": 135,
+        "id": 99810
+    },
+    {
+        "title": "Joe Versus the Volcano",
+        "year": 1990,
+        "duration": 102,
+        "id": 99892
+    },
+    {
+        "title": "Kindergarten Cop",
+        "year": 1990,
+        "duration": 111,
+        "id": 99938
+    },
+    {
+        "title": "Lionheart",
+        "year": 1990,
+        "duration": 108,
+        "id": 100029
+    },
+    {
+        "title": "Made in Milan",
+        "year": 1990,
+        "duration": 20,
+        "id": 100086
+    },
+    {
+        "title": "Maniac Cop 2",
+        "year": 1990,
+        "duration": 90,
+        "id": 100107
+    },
+    {
+        "title": "Miller's Crossing",
+        "year": 1990,
+        "duration": 115,
+        "id": 100150
+    },
+    {
+        "title": "Presumed Innocent",
+        "year": 1990,
+        "duration": 127,
+        "id": 100404
+    },
+    {
+        "title": "Rocky V",
+        "year": 1990,
+        "duration": 104,
+        "id": 100507
+    },
+    {
+        "title": "The Rookie",
+        "year": 1990,
+        "duration": 120,
+        "id": 100514
+    },
+    {
+        "title": "The Russia House",
+        "year": 1990,
+        "duration": 123,
+        "id": 100530
+    },
+    {
+        "title": "Total Recall",
+        "year": 1990,
+        "duration": 113,
+        "id": 100802
+    },
+    {
+        "title": "The Visionary",
+        "year": 1990,
+        "duration": 90,
+        "id": 100876
+    },
+    {
+        "title": "White Hunter Black Heart",
+        "year": 1990,
+        "duration": 112,
+        "id": 100928
+    },
+    {
+        "title": "Rebel from China",
+        "year": 1990,
+        "duration": 91,
+        "id": 100992
+    },
+    {
+        "title": "Dreams",
+        "year": 1990,
+        "duration": 119,
+        "id": 100998
+    },
+    {
+        "title": "Once a Thief",
+        "year": 1991,
+        "duration": 108,
+        "id": 101020
+    },
+    {
+        "title": "Barton Fink",
+        "year": 1991,
+        "duration": 116,
+        "id": 101410
+    },
+    {
+        "title": "Cape Fear",
+        "year": 1991,
+        "duration": 128,
+        "id": 101540
+    },
+    {
+        "title": "The House on Tombstone Hill",
+        "year": 1989,
+        "duration": 95,
+        "id": 101670
+    },
+    {
+        "title": "Double Impact",
+        "year": 1991,
+        "duration": 110,
+        "id": 101764
+    },
+    {
+        "title": "Guilty by Suspicion",
+        "year": 1991,
+        "duration": 105,
+        "id": 101984
+    },
+    {
+        "title": "The Banquet",
+        "year": 1991,
+        "duration": 97,
+        "id": 101999
+    },
+    {
+        "title": "Highlander II: The Quickening",
+        "year": 1991,
+        "duration": 91,
+        "id": 102034
+    },
+    {
+        "title": "Hook",
+        "year": 1991,
+        "duration": 142,
+        "id": 102057
+    },
+    {
+        "title": "Oscar",
+        "year": 1991,
+        "duration": 109,
+        "id": 102603
+    },
+    {
+        "title": "Regarding Henry",
+        "year": 1991,
+        "duration": 108,
+        "id": 102768
+    },
+    {
+        "title": "Robin Hood: Prince of Thieves",
+        "year": 1991,
+        "duration": 143,
+        "id": 102798
+    },
+    {
+        "title": "Terminator 2: Judgment Day",
+        "year": 1991,
+        "duration": 137,
+        "id": 103064
+    },
+    {
+        "title": "Thelma & Louise",
+        "year": 1991,
+        "duration": 130,
+        "id": 103074
+    },
+    {
+        "title": "1492: Conquest of Paradise",
+        "year": 1992,
+        "duration": 154,
+        "id": 103594
+    },
+    {
+        "title": "Dead Alive",
+        "year": 1992,
+        "duration": 104,
+        "id": 103873
+    },
+    {
+        "title": "Innocent Blood",
+        "year": 1992,
+        "duration": 112,
+        "id": 104511
+    },
+    {
+        "title": "Hard Boiled",
+        "year": 1992,
+        "duration": 128,
+        "id": 104684
+    },
+    {
+        "title": "A League of Their Own",
+        "year": 1992,
+        "duration": 128,
+        "id": 104694
+    },
+    {
+        "title": "Medicine Man",
+        "year": 1992,
+        "duration": 106,
+        "id": 104839
+    },
+    {
+        "title": "Patriot Games",
+        "year": 1992,
+        "duration": 117,
+        "id": 105112
+    },
+    {
+        "title": "Radio Flyer",
+        "year": 1992,
+        "duration": 114,
+        "id": 105211
+    },
+    {
+        "title": "Raising Cain",
+        "year": 1992,
+        "duration": 92,
+        "id": 105217
+    },
+    {
+        "title": "Reservoir Dogs",
+        "year": 1992,
+        "duration": 99,
+        "id": 105236
+    },
+    {
+        "title": "Twin Dragons",
+        "year": 1992,
+        "duration": 104,
+        "id": 105399
+    },
+    {
+        "title": "Stop! Or My Mom Will Shoot",
+        "year": 1992,
+        "duration": 87,
+        "id": 105477
+    },
+    {
+        "title": "Unforgiven",
+        "year": 1992,
+        "duration": 130,
+        "id": 105695
+    },
+    {
+        "title": "Universal Soldier",
+        "year": 1992,
+        "duration": 102,
+        "id": 105698
+    },
+    {
+        "title": "Where the Day Takes You",
+        "year": 1992,
+        "duration": 105,
+        "id": 105810
+    },
+    {
+        "title": "Mr. Wroe's Virgins",
+        "year": 1993,
+        "duration": 50,
+        "id": 106074
+    },
+    {
+        "title": "The Age of Innocence",
+        "year": 1993,
+        "duration": 139,
+        "id": 106226
+    },
+    {
+        "title": "Army of Darkness",
+        "year": 1992,
+        "duration": 81,
+        "id": 106308
+    },
+    {
+        "title": "Carlito's Way",
+        "year": 1993,
+        "duration": 144,
+        "id": 106519
+    },
+    {
+        "title": "Cliffhanger",
+        "year": 1993,
+        "duration": 113,
+        "id": 106582
+    },
+    {
+        "title": "Dave",
+        "year": 1993,
+        "duration": 110,
+        "id": 106673
+    },
+    {
+        "title": "Demolition Man",
+        "year": 1993,
+        "duration": 115,
+        "id": 106697
+    },
+    {
+        "title": "Eddie Presley",
+        "year": 1992,
+        "duration": 106,
+        "id": 106793
+    },
+    {
+        "title": "The Fugitive",
+        "year": 1993,
+        "duration": 130,
+        "id": 106977
+    },
+    {
+        "title": "Hard Target",
+        "year": 1993,
+        "duration": 97,
+        "id": 107076
+    },
+    {
+        "title": "In the Line of Fire",
+        "year": 1993,
+        "duration": 128,
+        "id": 107206
+    },
+    {
+        "title": "Indian Summer",
+        "year": 1993,
+        "duration": 97,
+        "id": 107212
+    },
+    {
+        "title": "Jurassic Park",
+        "year": 1993,
+        "duration": 127,
+        "id": 107290
+    },
+    {
+        "title": "Last Action Hero",
+        "year": 1993,
+        "duration": 130,
+        "id": 107362
+    },
+    {
+        "title": "Made in America",
+        "year": 1993,
+        "duration": 111,
+        "id": 107478
+    },
+    {
+        "title": "Nowhere to Run",
+        "year": 1993,
+        "duration": 94,
+        "id": 107711
+    },
+    {
+        "title": "A Perfect World",
+        "year": 1993,
+        "duration": 138,
+        "id": 107808
+    },
+    {
+        "title": "Philadelphia",
+        "year": 1993,
+        "duration": 125,
+        "id": 107818
+    },
+    {
+        "title": "Rising Sun",
+        "year": 1993,
+        "duration": 125,
+        "id": 107969
+    },
+    {
+        "title": "Schindler's List",
+        "year": 1993,
+        "duration": 195,
+        "id": 108052
+    },
+    {
+        "title": "Six Degrees of Separation",
+        "year": 1993,
+        "duration": 112,
+        "id": 108149
+    },
+    {
+        "title": "Sleepless in Seattle",
+        "year": 1993,
+        "duration": 105,
+        "id": 108160
+    },
+    {
+        "title": "The Stand",
+        "year": 1994,
+        "duration": 361,
+        "id": 108941
+    },
+    {
+        "title": "Clear and Present Danger",
+        "year": 1994,
+        "duration": 141,
+        "id": 109444
+    },
+    {
+        "title": "The Coriolis Effect",
+        "year": 1994,
+        "duration": 33,
+        "id": 109481
+    },
+    {
+        "title": "The Flintstones",
+        "year": 1994,
+        "duration": 91,
+        "id": 109813
+    },
+    {
+        "title": "Forrest Gump",
+        "year": 1994,
+        "duration": 142,
+        "id": 109830
+    },
+    {
+        "title": "A Good Man in Africa",
+        "year": 1994,
+        "duration": 94,
+        "id": 109920
+    },
+    {
+        "title": "Heavenly Creatures",
+        "year": 1994,
+        "duration": 99,
+        "id": 110005
+    },
+    {
+        "title": "The Hudsucker Proxy",
+        "year": 1994,
+        "duration": 111,
+        "id": 110074
+    },
+    {
+        "title": "Jimmy Hollywood",
+        "year": 1994,
+        "duration": 112,
+        "id": 110197
+    },
+    {
+        "title": "Junior",
+        "year": 1994,
+        "duration": 109,
+        "id": 110216
+    },
+    {
+        "title": "Pulp Fiction",
+        "year": 1994,
+        "duration": 154,
+        "id": 110912
+    },
+    {
+        "title": "Quiz Show",
+        "year": 1994,
+        "duration": 133,
+        "id": 110932
+    },
+    {
+        "title": "Rotwang muß weg!",
+        "year": 1994,
+        "duration": 82,
+        "id": 111022
+    },
+    {
+        "title": "Shallow Grave",
+        "year": 1994,
+        "duration": 89,
+        "id": 111149
+    },
+    {
+        "title": "Sleep with Me",
+        "year": 1994,
+        "duration": 86,
+        "id": 111218
+    },
+    {
+        "title": "Somebody to Love",
+        "year": 1994,
+        "duration": 102,
+        "id": 111237
+    },
+    {
+        "title": "The Specialist",
+        "year": 1994,
+        "duration": 110,
+        "id": 111255
+    },
+    {
+        "title": "Street Fighter",
+        "year": 1994,
+        "duration": 102,
+        "id": 111301
+    },
+    {
+        "title": "Timecop",
+        "year": 1994,
+        "duration": 99,
+        "id": 111438
+    },
+    {
+        "title": "True Lies",
+        "year": 1994,
+        "duration": 141,
+        "id": 111503
+    },
+    {
+        "title": "Apollo 13",
+        "year": 1995,
+        "duration": 140,
+        "id": 112384
+    },
+    {
+        "title": "Assassins",
+        "year": 1995,
+        "duration": 132,
+        "id": 112401
+    },
+    {
+        "title": "Bad Boys",
+        "year": 1995,
+        "duration": 119,
+        "id": 112442
+    },
+    {
+        "title": "The Bridges of Madison County",
+        "year": 1995,
+        "duration": 135,
+        "id": 112579
+    },
+    {
+        "title": "Casino",
+        "year": 1995,
+        "duration": 178,
+        "id": 112641
+    },
+    {
+        "title": "Casper",
+        "year": 1995,
+        "duration": 100,
+        "id": 112642
+    },
+    {
+        "title": "Desperado",
+        "year": 1995,
+        "duration": 104,
+        "id": 112851
+    },
+    {
+        "title": "Destiny Turns on the Radio",
+        "year": 1995,
+        "duration": 102,
+        "id": 112854
+    },
+    {
+        "title": "First Knight",
+        "year": 1995,
+        "duration": 134,
+        "id": 113071
+    },
+    {
+        "title": "Four Rooms",
+        "year": 1995,
+        "duration": 98,
+        "id": 113101
+    },
+    {
+        "title": "Galaxis",
+        "year": 1995,
+        "duration": 91,
+        "id": 113140
+    },
+    {
+        "title": "GoldenEye",
+        "year": 1995,
+        "duration": 130,
+        "id": 113189
+    },
+    {
+        "title": "Judge Dredd",
+        "year": 1995,
+        "duration": 96,
+        "id": 113492
+    },
+    {
+        "title": "Just Cause",
+        "year": 1995,
+        "duration": 102,
+        "id": 113501
+    },
+    {
+        "title": "The Quick and the Dead",
+        "year": 1995,
+        "duration": 107,
+        "id": 114214
+    },
+    {
+        "title": "Sabrina",
+        "year": 1995,
+        "duration": 127,
+        "id": 114319
+    },
+    {
+        "title": "Search and Destroy",
+        "year": 1995,
+        "duration": 90,
+        "id": 114371
+    },
+    {
+        "title": "Sudden Death",
+        "year": 1995,
+        "duration": 111,
+        "id": 114576
+    },
+    {
+        "title": "To Die For",
+        "year": 1995,
+        "duration": 106,
+        "id": 114681
+    },
+    {
+        "title": "Toy Story",
+        "year": 1995,
+        "duration": 81,
+        "id": 114709
+    },
+    {
+        "title": "Broken Arrow",
+        "year": 1996,
+        "duration": 108,
+        "id": 115759
+    },
+    {
+        "title": "Curdled",
+        "year": 1996,
+        "duration": 88,
+        "id": 115994
+    },
+    {
+        "title": "Daylight",
+        "year": 1996,
+        "duration": 114,
+        "id": 116040
+    },
+    {
+        "title": "DragonHeart",
+        "year": 1996,
+        "duration": 103,
+        "id": 116136
+    },
+    {
+        "title": "Eraser",
+        "year": 1996,
+        "duration": 115,
+        "id": 116213
+    },
+    {
+        "title": "Fargo",
+        "year": 1996,
+        "duration": 98,
+        "id": 116282
+    },
+    {
+        "title": "The Frighteners",
+        "year": 1996,
+        "duration": 110,
+        "id": 116365
+    },
+    {
+        "title": "From Dusk Till Dawn",
+        "year": 1996,
+        "duration": 108,
+        "id": 116367
+    },
+    {
+        "title": "Girl 6",
+        "year": 1996,
+        "duration": 108,
+        "id": 116414
+    },
+    {
+        "title": "Independence Day",
+        "year": 1996,
+        "duration": 145,
+        "id": 116629
+    },
+    {
+        "title": "Jingle All the Way",
+        "year": 1996,
+        "duration": 89,
+        "id": 116705
+    },
+    {
+        "title": "Maximum Risk",
+        "year": 1996,
+        "duration": 101,
+        "id": 117011
+    },
+    {
+        "title": "Mission: Impossible",
+        "year": 1996,
+        "duration": 110,
+        "id": 117060
+    },
+    {
+        "title": "The Quest",
+        "year": 1996,
+        "duration": 95,
+        "id": 117420
+    },
+    {
+        "title": "The Rock",
+        "year": 1996,
+        "duration": 136,
+        "id": 117500
+    },
+    {
+        "title": "T2 3-D: Battle Across Time",
+        "year": 1996,
+        "duration": 21,
+        "id": 117880
+    },
+    {
+        "title": "That Thing You Do!",
+        "year": 1996,
+        "duration": 108,
+        "id": 117887
+    },
+    {
+        "title": "Trainspotting",
+        "year": 1996,
+        "duration": 93,
+        "id": 117951
+    },
+    {
+        "title": "White Squall",
+        "year": 1996,
+        "duration": 129,
+        "id": 118158
+    },
+    {
+        "title": "The Shining",
+        "year": 1997,
+        "duration": 273,
+        "id": 118460
+    },
+    {
+        "title": "Absolute Power",
+        "year": 1997,
+        "duration": 121,
+        "id": 118548
+    },
+    {
+        "title": "Air Force One",
+        "year": 1997,
+        "duration": 124,
+        "id": 118571
+    },
+    {
+        "title": "An Alan Smithee Film: Burn Hollywood Burn",
+        "year": 1997,
+        "duration": 86,
+        "id": 118577
+    },
+    {
+        "title": "Amistad",
+        "year": 1997,
+        "duration": 155,
+        "id": 118607
+    },
+    {
+        "title": "The Avengers",
+        "year": 1998,
+        "duration": 89,
+        "id": 118661
+    },
+    {
+        "title": "Batman & Robin",
+        "year": 1997,
+        "duration": 125,
+        "id": 118688
+    },
+    {
+        "title": "The Big Lebowski",
+        "year": 1998,
+        "duration": 117,
+        "id": 118715
+    },
+    {
+        "title": "Alien Love Triangle",
+        "year": 2008,
+        "duration": 30,
+        "id": 118837
+    },
+    {
+        "title": "Clay Pigeons",
+        "year": 1998,
+        "duration": 104,
+        "id": 118863
+    },
+    {
+        "title": "Cop Land",
+        "year": 1997,
+        "duration": 105,
+        "id": 118887
+    },
+    {
+        "title": "The Devil's Own",
+        "year": 1997,
+        "duration": 111,
+        "id": 118972
+    },
+    {
+        "title": "Double Team",
+        "year": 1997,
+        "duration": 93,
+        "id": 119013
+    },
+    {
+        "title": "Face/Off",
+        "year": 1997,
+        "duration": 138,
+        "id": 119094
+    },
+    {
+        "title": "G.I. Jane",
+        "year": 1997,
+        "duration": 125,
+        "id": 119173
+    },
+    {
+        "title": "God Said, 'Ha!'",
+        "year": 1998,
+        "duration": 85,
+        "id": 119207
+    },
+    {
+        "title": "The Good Life",
+        "year": 1997,
+        "duration": 95,
+        "id": 119216
+    },
+    {
+        "title": "Inventing the Abbotts",
+        "year": 1997,
+        "duration": 110,
+        "id": 119381
+    },
+    {
+        "title": "Jackie Brown",
+        "year": 1997,
+        "duration": 154,
+        "id": 119396
+    },
+    {
+        "title": "Kundun",
+        "year": 1997,
+        "duration": 134,
+        "id": 119485
+    },
+    {
+        "title": "A Life Less Ordinary",
+        "year": 1997,
+        "duration": 103,
+        "id": 119535
+    },
+    {
+        "title": "The Lost World: Jurassic Park",
+        "year": 1997,
+        "duration": 129,
+        "id": 119567
+    },
+    {
+        "title": "Men in Black",
+        "year": 1997,
+        "duration": 98,
+        "id": 119654
+    },
+    {
+        "title": "Midnight in the Garden of Good and Evil",
+        "year": 1997,
+        "duration": 155,
+        "id": 119668
+    },
+    {
+        "title": "A Simple Plan",
+        "year": 1998,
+        "duration": 121,
+        "id": 120324
+    },
+    {
+        "title": "Titanic",
+        "year": 1997,
+        "duration": 194,
+        "id": 120338
+    },
+    {
+        "title": "Tomorrow Never Dies",
+        "year": 1997,
+        "duration": 119,
+        "id": 120347
+    },
+    {
+        "title": "Toy Story 2",
+        "year": 1999,
+        "duration": 92,
+        "id": 120363
+    },
+    {
+        "title": "U Turn",
+        "year": 1997,
+        "duration": 125,
+        "id": 120399
+    },
+    {
+        "title": "From the Earth to the Moon",
+        "year": 1998,
+        "duration": 60,
+        "id": 120570
+    },
+    {
+        "title": "Antz",
+        "year": 1998,
+        "duration": 83,
+        "id": 120587
+    },
+    {
+        "title": "Enemy of the State",
+        "year": 1998,
+        "duration": 132,
+        "id": 120660
+    },
+    {
+        "title": "The Green Mile",
+        "year": 1999,
+        "duration": 189,
+        "id": 120689
+    },
+    {
+        "title": "Knock Off",
+        "year": 1998,
+        "duration": 91,
+        "id": 120724
+    },
+    {
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "year": 2001,
+        "duration": 178,
+        "id": 120737
+    },
+    {
+        "title": "Mission: Impossible II",
+        "year": 2000,
+        "duration": 123,
+        "id": 120755
+    },
+    {
+        "title": "Saving Private Ryan",
+        "year": 1998,
+        "duration": 169,
+        "id": 120815
+    },
+    {
+        "title": "Six Days Seven Nights",
+        "year": 1998,
+        "duration": 102,
+        "id": 120828
+    },
+    {
+        "title": "Snake Eyes",
+        "year": 1998,
+        "duration": 98,
+        "id": 120832
+    },
+    {
+        "title": "Wild Wild West",
+        "year": 1999,
+        "duration": 106,
+        "id": 120891
+    },
+    {
+        "title": "Men in Black II",
+        "year": 2002,
+        "duration": 88,
+        "id": 120912
+    },
+    {
+        "title": "Michael Jackson: Bad",
+        "year": 1987,
+        "duration": 18,
+        "id": 124288
+    },
+    {
+        "title": "Return to Paradise",
+        "year": 1998,
+        "duration": 111,
+        "id": 124595
+    },
+    {
+        "title": "Legionnaire",
+        "year": 1998,
+        "duration": 99,
+        "id": 126388
+    },
+    {
+        "title": "For Love of the Game",
+        "year": 1999,
+        "duration": 137,
+        "id": 126916
+    },
+    {
+        "title": "You've Got Mail",
+        "year": 1998,
+        "duration": 119,
+        "id": 128853
+    },
+    {
+        "title": "The Iron Giant",
+        "year": 1999,
+        "duration": 86,
+        "id": 129167
+    },
+    {
+        "title": "Driven",
+        "year": 2001,
+        "duration": 116,
+        "id": 132245
+    },
+    {
+        "title": "Task Force",
+        "year": 1997,
+        "duration": 110,
+        "id": 133285
+    },
+    {
+        "title": "Frontline",
+        "year": 1983,
+        "duration": 60,
+        "id": 133302
+    },
+    {
+        "title": "8MM",
+        "year": 1999,
+        "duration": 123,
+        "id": 134273
+    },
+    {
+        "title": "Duets",
+        "year": 2000,
+        "duration": 112,
+        "id": 134630
+    },
+    {
+        "title": "Pitch Black",
+        "year": 2000,
+        "duration": 109,
+        "id": 134847
+    },
+    {
+        "title": "Entrapment",
+        "year": 1999,
+        "duration": 113,
+        "id": 137494
+    },
+    {
+        "title": "Beretta's Island",
+        "year": 1993,
+        "duration": 97,
+        "id": 138322
+    },
+    {
+        "title": "Intolerable Cruelty",
+        "year": 2003,
+        "duration": 100,
+        "id": 138524
+    },
+    {
+        "title": "The Yards",
+        "year": 2000,
+        "duration": 115,
+        "id": 138946
+    },
+    {
+        "title": "Inferno",
+        "year": 1999,
+        "duration": 95,
+        "id": 139151
+    },
+    {
+        "title": "True Crime",
+        "year": 1999,
+        "duration": 127,
+        "id": 139668
+    },
+    {
+        "title": "No Control",
+        "year": 1927,
+        "duration": 60,
+        "id": 142692
+    },
+    {
+        "title": "The World Is Not Enough",
+        "year": 1999,
+        "duration": 128,
+        "id": 143145
+    },
+    {
+        "title": "Spider-Man",
+        "year": 2002,
+        "duration": 121,
+        "id": 145487
+    },
+    {
+        "title": "Playing by Heart",
+        "year": 1998,
+        "duration": 121,
+        "id": 145734
+    },
+    {
+        "title": "End of Days",
+        "year": 1999,
+        "duration": 122,
+        "id": 146675
+    },
+    {
+        "title": "The Legend of Bagger Vance",
+        "year": 2000,
+        "duration": 126,
+        "id": 146984
+    },
+    {
+        "title": "Strays",
+        "year": 1997,
+        "duration": 105,
+        "id": 149171
+    },
+    {
+        "title": "The Flattering Word",
+        "year": 1929,
+        "duration": 25,
+        "id": 150584
+    },
+    {
+        "title": "Following",
+        "year": 1998,
+        "duration": 69,
+        "id": 154506
+    },
+    {
+        "title": "Random Hearts",
+        "year": 1999,
+        "duration": 133,
+        "id": 156934
+    },
+    {
+        "title": "Your Studio and You",
+        "year": 1995,
+        "duration": 17,
+        "id": 159144
+    },
+    {
+        "title": "Eye See You",
+        "year": 2002,
+        "duration": 96,
+        "id": 160184
+    },
+    {
+        "title": "What Lies Beneath",
+        "year": 2000,
+        "duration": 130,
+        "id": 161081
+    },
+    {
+        "title": "Cast Away",
+        "year": 2000,
+        "duration": 143,
+        "id": 162222
+    },
+    {
+        "title": "Murder à la Mod",
+        "year": 1968,
+        "duration": 80,
+        "id": 163114
+    },
+    {
+        "title": "The Beach",
+        "year": 2000,
+        "duration": 119,
+        "id": 163978
+    },
+    {
+        "title": "Bringing Out the Dead",
+        "year": 1999,
+        "duration": 121,
+        "id": 163988
+    },
+    {
+        "title": "The Muse",
+        "year": 1999,
+        "duration": 97,
+        "id": 164108
+    },
+    {
+        "title": "The Lord of the Rings: The Return of the King",
+        "year": 2003,
+        "duration": 201,
+        "id": 167260
+    },
+    {
+        "title": "The Lord of the Rings: The Two Towers",
+        "year": 2002,
+        "duration": 179,
+        "id": 167261
+    },
+    {
+        "title": "Michael Jackson: Video Greatest Hits - HIStory",
+        "year": 1995,
+        "duration": 89,
+        "id": 167988
+    },
+    {
+        "title": "Walking the Dog",
+        "year": 1991,
+        "duration": 30,
+        "id": 168247
+    },
+    {
+        "title": "The Crystal Gazer",
+        "year": 1917,
+        "duration": 50,
+        "id": 168622
+    },
+    {
+        "title": "Three Miles Out",
+        "year": 1924,
+        "duration": 60,
+        "id": 170678
+    },
+    {
+        "title": "Bad Boys II",
+        "year": 2003,
+        "duration": 147,
+        "id": 172156
+    },
+    {
+        "title": "Gladiator",
+        "year": 2000,
+        "duration": 155,
+        "id": 172495
+    },
+    {
+        "title": "My Voyage to Italy",
+        "year": 1999,
+        "duration": 246,
+        "id": 173772
+    },
+    {
+        "title": "Hefty's",
+        "year": 1983,
+        "duration": null,
+        "id": 173893
+    },
+    {
+        "title": "Universal Soldier: The Return",
+        "year": 1999,
+        "duration": 83,
+        "id": 176269
+    },
+    {
+        "title": "Molly Entangled",
+        "year": 1917,
+        "duration": 50,
+        "id": 178762
+    },
+    {
+        "title": "Quills",
+        "year": 2000,
+        "duration": 124,
+        "id": 180073
+    },
+    {
+        "title": "Finding Forrester",
+        "year": 2000,
+        "duration": 136,
+        "id": 181536
+    },
+    {
+        "title": "Minority Report",
+        "year": 2002,
+        "duration": 145,
+        "id": 181689
+    },
+    {
+        "title": "Terminator 3: Rise of the Machines",
+        "year": 2003,
+        "duration": 109,
+        "id": 181852
+    },
+    {
+        "title": "Boiler Room",
+        "year": 2000,
+        "duration": 120,
+        "id": 181984
+    },
+    {
+        "title": "A Roadside Impresario",
+        "year": 1917,
+        "duration": 50,
+        "id": 182392
+    },
+    {
+        "title": "Mission to Mars",
+        "year": 2000,
+        "duration": 114,
+        "id": 183523
+    },
+    {
+        "title": "Little Nicky",
+        "year": 2000,
+        "duration": 90,
+        "id": 185431
+    },
+    {
+        "title": "Gu lian hua",
+        "year": 1985,
+        "duration": null,
+        "id": 185446
+    },
+    {
+        "title": "Band of Brothers",
+        "year": 2001,
+        "duration": 594,
+        "id": 185906
+    },
+    {
+        "title": "Space Cowboys",
+        "year": 2000,
+        "duration": 130,
+        "id": 186566
+    },
+    {
+        "title": "Watchtower Over Tomorrow",
+        "year": 1945,
+        "duration": 15,
+        "id": 187589
+    },
+    {
+        "title": "O Brother, Where Art Thou?",
+        "year": 2000,
+        "duration": 107,
+        "id": 190590
+    },
+    {
+        "title": "The Order",
+        "year": 2001,
+        "duration": 89,
+        "id": 193364
+    },
+    {
+        "title": "Get Carter",
+        "year": 2000,
+        "duration": 102,
+        "id": 208988
+    },
+    {
+        "title": "Memento",
+        "year": 2000,
+        "duration": 113,
+        "id": 209144
+    },
+    {
+        "title": "Knockaround Guys",
+        "year": 2001,
+        "duration": 92,
+        "id": 211465
+    },
+    {
+        "title": "A.I. Artificial Intelligence",
+        "year": 2001,
+        "duration": 146,
+        "id": 212720
+    },
+    {
+        "title": "Hannibal",
+        "year": 2001,
+        "duration": 131,
+        "id": 212985
+    },
+    {
+        "title": "The 6th Day",
+        "year": 2000,
+        "duration": 123,
+        "id": 216216
+    },
+    {
+        "title": "Gangs of New York",
+        "year": 2002,
+        "duration": 167,
+        "id": 217505
+    },
+    {
+        "title": "The Gift",
+        "year": 2000,
+        "duration": 112,
+        "id": 219699
+    },
+    {
+        "title": "Multi-Facial",
+        "year": 1995,
+        "duration": 20,
+        "id": 226168
+    },
+    {
+        "title": "Night of the Day of the Dawn of the Son of the Bride of the Return of the Terror",
+        "year": 1991,
+        "duration": 96,
+        "id": 230575
+    },
+    {
+        "title": "The Fast and the Furious",
+        "year": 2001,
+        "duration": 106,
+        "id": 232500
+    },
+    {
+        "title": "Collateral Damage",
+        "year": 2002,
+        "duration": 108,
+        "id": 233469
+    },
+    {
+        "title": "The Unfinished Journey",
+        "year": 1999,
+        "duration": 21,
+        "id": 236824
+    },
+    {
+        "title": "Replicant",
+        "year": 2001,
+        "duration": 100,
+        "id": 238552
+    },
+    {
+        "title": "The Man Who Wasn't There",
+        "year": 2001,
+        "duration": 116,
+        "id": 243133
+    },
+    {
+        "title": "Windtalkers",
+        "year": 2002,
+        "duration": 134,
+        "id": 245562
+    },
+    {
+        "title": "Die Another Day",
+        "year": 2002,
+        "duration": 133,
+        "id": 246460
+    },
+    {
+        "title": "Ali",
+        "year": 2001,
+        "duration": 157,
+        "id": 248667
+    },
+    {
+        "title": "Sound Test for Blackmail",
+        "year": 1929,
+        "duration": 1,
+        "id": 249159
+    },
+    {
+        "title": "Strokes of Genius",
+        "year": 1984,
+        "duration": null,
+        "id": 249321
+    },
+    {
+        "title": "Slipstream",
+        "year": 1967,
+        "duration": null,
+        "id": 249968
+    },
+    {
+        "title": "Xenogenesis",
+        "year": 1978,
+        "duration": 12,
+        "id": 251488
+    },
+    {
+        "title": "Buffalo Soldiers",
+        "year": 2001,
+        "duration": 98,
+        "id": 252299
+    },
+    {
+        "title": "660124: The Story of an IBM Card",
+        "year": 1961,
+        "duration": null,
+        "id": 256580
+    },
+    {
+        "title": "To Bridge This Gap",
+        "year": 1969,
+        "duration": 25,
+        "id": 256660
+    },
+    {
+        "title": "Icarus",
+        "year": 1960,
+        "duration": null,
+        "id": 256826
+    },
+    {
+        "title": "Jennifer",
+        "year": 1964,
+        "duration": null,
+        "id": 256843
+    },
+    {
+        "title": "The Responsive Eye",
+        "year": 1966,
+        "duration": 30,
+        "id": 257035
+    },
+    {
+        "title": "Road to Perdition",
+        "year": 2002,
+        "duration": 117,
+        "id": 257044
+    },
+    {
+        "title": "Show Me a Strong Town and I'll Show You a Strong Bank",
+        "year": 1966,
+        "duration": null,
+        "id": 257179
+    },
+    {
+        "title": "Woton's Wake",
+        "year": 1962,
+        "duration": 20,
+        "id": 257277
+    },
+    {
+        "title": "Vanilla Sky",
+        "year": 2001,
+        "duration": 136,
+        "id": 259711
+    },
+    {
+        "title": "One of the Missing",
+        "year": 1969,
+        "duration": 26,
+        "id": 262663
+    },
+    {
+        "title": "Catch Me If You Can",
+        "year": 2002,
+        "duration": 141,
+        "id": 264464
+    },
+    {
+        "title": "Black Hawk Down",
+        "year": 2001,
+        "duration": 144,
+        "id": 265086
+    },
+    {
+        "title": "A Man Apart",
+        "year": 2003,
+        "duration": 109,
+        "id": 266465
+    },
+    {
+        "title": "Kill Bill: Vol. 1",
+        "year": 2003,
+        "duration": 111,
+        "id": 266697
+    },
+    {
+        "title": "The Widowmaker",
+        "year": 2002,
+        "duration": 138,
+        "id": 267626
+    },
+    {
+        "title": "Barking Dogs Never Bite",
+        "year": 2000,
+        "duration": 110,
+        "id": 269743
+    },
+    {
+        "title": "It's All About Love",
+        "year": 2003,
+        "duration": 104,
+        "id": 273689
+    },
+    {
+        "title": "Avenging Angelo",
+        "year": 2002,
+        "duration": 97,
+        "id": 275947
+    },
+    {
+        "title": "Insomnia",
+        "year": 2002,
+        "duration": 118,
+        "id": 278504
+    },
+    {
+        "title": "Femme Fatale",
+        "year": 2002,
+        "duration": 114,
+        "id": 280665
+    },
+    {
+        "title": "Signs",
+        "year": 2002,
+        "duration": 106,
+        "id": 286106
+    },
+    {
+        "title": "The Blues",
+        "year": 2003,
+        "duration": null,
+        "id": 287198
+    },
+    {
+        "title": "28 Days Later...",
+        "year": 2002,
+        "duration": 113,
+        "id": 289043
+    },
+    {
+        "title": "Austin Powers in Goldmember",
+        "year": 2002,
+        "duration": 94,
+        "id": 295178
+    },
+    {
+        "title": "An Elastic Affair",
+        "year": 1930,
+        "duration": 10,
+        "id": 295228
+    },
+    {
+        "title": "xXx",
+        "year": 2002,
+        "duration": 124,
+        "id": 295701
+    },
+    {
+        "title": "Taxi 3",
+        "year": 2003,
+        "duration": 84,
+        "id": 295721
+    },
+    {
+        "title": "The Chronicles of Riddick",
+        "year": 2004,
+        "duration": 119,
+        "id": 296572
+    },
+    {
+        "title": "Ghosts of the Abyss",
+        "year": 2003,
+        "duration": 61,
+        "id": 297144
+    },
+    {
+        "title": "Derailed",
+        "year": 2002,
+        "duration": 89,
+        "id": 298296
+    },
+    {
+        "title": "The Concert for New York City",
+        "year": 2001,
+        "duration": 296,
+        "id": 298810
+    },
+    {
+        "title": "Shark Tale",
+        "year": 2004,
+        "duration": 90,
+        "id": 307453
+    },
+    {
+        "title": "Blood Work",
+        "year": 2002,
+        "duration": 110,
+        "id": 309377
+    },
+    {
+        "title": "No Blood No Tears",
+        "year": 2002,
+        "duration": 116,
+        "id": 310000
+    },
+    {
+        "title": "The League of Extraordinary Gentlemen",
+        "year": 2003,
+        "duration": 110,
+        "id": 311429
+    },
+    {
+        "title": "Accidentaly",
+        "year": 1968,
+        "duration": 8,
+        "id": 313442
+    },
+    {
+        "title": "Sijie",
+        "year": 1968,
+        "duration": 19,
+        "id": 313606
+    },
+    {
+        "title": "The Valley",
+        "year": 1976,
+        "duration": 20,
+        "id": 314831
+    },
+    {
+        "title": "Spider-Man 2",
+        "year": 2004,
+        "duration": 127,
+        "id": 316654
+    },
+    {
+        "title": "Cars",
+        "year": 2006,
+        "duration": 117,
+        "id": 317219
+    },
+    {
+        "title": "Kingdom of Heaven",
+        "year": 2005,
+        "duration": 144,
+        "id": 320661
+    },
+    {
+        "title": "Shade",
+        "year": 2003,
+        "duration": 101,
+        "id": 323939
+    },
+    {
+        "title": "Matchstick Men",
+        "year": 2003,
+        "duration": 116,
+        "id": 325805
+    },
+    {
+        "title": "Mystic River",
+        "year": 2003,
+        "duration": 138,
+        "id": 327056
+    },
+    {
+        "title": "Around the World in 80 Days",
+        "year": 2004,
+        "duration": 120,
+        "id": 327437
+    },
+    {
+        "title": "The Rundown",
+        "year": 2003,
+        "duration": 104,
+        "id": 327850
+    },
+    {
+        "title": "Brother Bear",
+        "year": 2003,
+        "duration": 85,
+        "id": 328880
+    },
+    {
+        "title": "Hollywood Homicide",
+        "year": 2003,
+        "duration": 116,
+        "id": 329717
+    },
+    {
+        "title": "Expedition: Bismarck",
+        "year": 2002,
+        "duration": 92,
+        "id": 330267
+    },
+    {
+        "title": "Earthship.TV",
+        "year": 2001,
+        "duration": null,
+        "id": 331475
+    },
+    {
+        "title": "The Ladykillers",
+        "year": 2004,
+        "duration": 104,
+        "id": 335245
+    },
+    {
+        "title": "Hostage",
+        "year": 2002,
+        "duration": 9,
+        "id": 338111
+    },
+    {
+        "title": "Paycheck",
+        "year": 2003,
+        "duration": 119,
+        "id": 338337
+    },
+    {
+        "title": "The Polar Express",
+        "year": 2004,
+        "duration": 100,
+        "id": 338348
+    },
+    {
+        "title": "Spy Kids 3-D: Game Over",
+        "year": 2003,
+        "duration": 84,
+        "id": 338459
+    },
+    {
+        "title": "The Aviator",
+        "year": 2004,
+        "duration": 170,
+        "id": 338751
+    },
+    {
+        "title": "In Hell",
+        "year": 2003,
+        "duration": 98,
+        "id": 339135
+    },
+    {
+        "title": "I, Robot",
+        "year": 2004,
+        "duration": 115,
+        "id": 343818
+    },
+    {
+        "title": "The Long and Short of It",
+        "year": 2003,
+        "duration": 5,
+        "id": 343992
+    },
+    {
+        "title": "Boy and Bicycle",
+        "year": 1965,
+        "duration": 27,
+        "id": 346645
+    },
+    {
+        "title": "Ladder 49",
+        "year": 2004,
+        "duration": 115,
+        "id": 349710
+    },
+    {
+        "title": "Memories of Murder",
+        "year": 2003,
+        "duration": 131,
+        "id": 353969
+    },
+    {
+        "title": "Walk the Line",
+        "year": 2005,
+        "duration": 136,
+        "id": 358273
+    },
+    {
+        "title": "My Best Friend's Birthday",
+        "year": 1987,
+        "duration": 90,
+        "id": 359715
+    },
+    {
+        "title": "King Kong",
+        "year": 2005,
+        "duration": 187,
+        "id": 360717
+    },
+    {
+        "title": "Freedom: A History of US",
+        "year": 2003,
+        "duration": null,
+        "id": 361185
+    },
+    {
+        "title": "Inglourious Basterds",
+        "year": 2009,
+        "duration": 153,
+        "id": 361748
+    },
+    {
+        "title": "The Terminal",
+        "year": 2004,
+        "duration": 128,
+        "id": 362227
+    },
+    {
+        "title": "Bruce Springsteen: The Complete Video Anthology 1978-2000",
+        "year": 2001,
+        "duration": 165,
+        "id": 363491
+    },
+    {
+        "title": "American Masters",
+        "year": 1985,
+        "duration": 90,
+        "id": 364151
+    },
+    {
+        "title": "Babylon A.D.",
+        "year": 2008,
+        "duration": 90,
+        "id": 364970
+    },
+    {
+        "title": "Millions",
+        "year": 2004,
+        "duration": 98,
+        "id": 366777
+    },
+    {
+        "title": "Wake of Death",
+        "year": 2004,
+        "duration": 91,
+        "id": 367478
+    },
+    {
+        "title": "Indiana Jones and the Kingdom of the Crystal Skull",
+        "year": 2008,
+        "duration": 122,
+        "id": 367882
+    },
+    {
+        "title": "The Village",
+        "year": 2004,
+        "duration": 108,
+        "id": 368447
+    },
+    {
+        "title": "Simon",
+        "year": 1954,
+        "duration": 35,
+        "id": 369936
+    },
+    {
+        "title": "Short Diversity 5",
+        "year": 2000,
+        "duration": null,
+        "id": 371214
+    },
+    {
+        "title": "Batman Begins",
+        "year": 2005,
+        "duration": 140,
+        "id": 372784
+    },
+    {
+        "title": "Location Production Footage: The Last Temptation of Christ",
+        "year": 1988,
+        "duration": 15,
+        "id": 374003
+    },
+    {
+        "title": "The Pacific",
+        "year": 2010,
+        "duration": 530,
+        "id": 374463
+    },
+    {
+        "title": "Duck Dodgers",
+        "year": 2003,
+        "duration": 30,
+        "id": 376390
+    },
+    {
+        "title": "Elvis Has Left the Building",
+        "year": 2004,
+        "duration": 90,
+        "id": 377057
+    },
+    {
+        "title": "Kill Bill: Vol. 2",
+        "year": 2004,
+        "duration": 137,
+        "id": 378194
+    },
+    {
+        "title": "The Bowler and the Bunnet",
+        "year": 1967,
+        "duration": 60,
+        "id": 379189
+    },
+    {
+        "title": "The Lovely Bones",
+        "year": 2009,
+        "duration": 135,
+        "id": 380510
+    },
+    {
+        "title": "Casino Royale",
+        "year": 2006,
+        "duration": 144,
+        "id": 381061
+    },
+    {
+        "title": "Narco",
+        "year": 2004,
+        "duration": 105,
+        "id": 381442
+    },
+    {
+        "title": "The Da Vinci Code",
+        "year": 2006,
+        "duration": 149,
+        "id": 382625
+    },
+    {
+        "title": "Hitch",
+        "year": 2005,
+        "duration": 118,
+        "id": 386588
+    },
+    {
+        "title": "The Black Dahlia",
+        "year": 2006,
+        "duration": 121,
+        "id": 387877
+    },
+    {
+        "title": "Hotel Rwanda",
+        "year": 2004,
+        "duration": 121,
+        "id": 395169
+    },
+    {
+        "title": "The Pacifier",
+        "year": 2005,
+        "duration": 95,
+        "id": 395699
+    },
+    {
+        "title": "Lady by the Sea: The Statue of Liberty",
+        "year": 2004,
+        "duration": 55,
+        "id": 397507
+    },
+    {
+        "title": "A Good Year",
+        "year": 2006,
+        "duration": 117,
+        "id": 401445
+    },
+    {
+        "title": "Magnificent Desolation: Walking on the Moon 3D",
+        "year": 2005,
+        "duration": 40,
+        "id": 401623
+    },
+    {
+        "title": "Paris, je t'aime",
+        "year": 2006,
+        "duration": 120,
+        "id": 401711
+    },
+    {
+        "title": "Sin City",
+        "year": 2005,
+        "duration": 124,
+        "id": 401792
+    },
+    {
+        "title": "Million Dollar Baby",
+        "year": 2004,
+        "duration": 132,
+        "id": 405159
+    },
+    {
+        "title": "War of the Worlds",
+        "year": 2005,
+        "duration": 116,
+        "id": 407304
+    },
+    {
+        "title": "The Chronicles of Riddick: Dark Fury",
+        "year": 2004,
+        "duration": 35,
+        "id": 407658
+    },
+    {
+        "title": "The Departed",
+        "year": 2006,
+        "duration": 151,
+        "id": 407887
+    },
+    {
+        "title": "Munich",
+        "year": 2005,
+        "duration": 164,
+        "id": 408306
+    },
+    {
+        "title": "Firewall",
+        "year": 2006,
+        "duration": 105,
+        "id": 408345
+    },
+    {
+        "title": "Cowboys & Aliens",
+        "year": 2011,
+        "duration": 119,
+        "id": 409847
+    },
+    {
+        "title": "All the Invisible Children",
+        "year": 2005,
+        "duration": 124,
+        "id": 411098
+    },
+    {
+        "title": "Doodlebug",
+        "year": 1997,
+        "duration": 3,
+        "id": 411302
+    },
+    {
+        "title": "Spider-Man 3",
+        "year": 2007,
+        "duration": 139,
+        "id": 413300
+    },
+    {
+        "title": "Black-Eyed Susan",
+        "year": 2004,
+        "duration": 105,
+        "id": 413852
+    },
+    {
+        "title": "The Kid & I",
+        "year": 2005,
+        "duration": 93,
+        "id": 416891
+    },
+    {
+        "title": "Aliens of the Deep",
+        "year": 2005,
+        "duration": 100,
+        "id": 417415
+    },
+    {
+        "title": "Flags of Our Fathers",
+        "year": 2006,
+        "duration": 135,
+        "id": 418689
+    },
+    {
+        "title": "Find Me Guilty",
+        "year": 2006,
+        "duration": 125,
+        "id": 419749
+    },
+    {
+        "title": "Hot Fuzz",
+        "year": 2007,
+        "duration": 121,
+        "id": 425112
+    },
+    {
+        "title": "Red Cliff",
+        "year": 2008,
+        "duration": 146,
+        "id": 425637
+    },
+    {
+        "title": "Water to Wine",
+        "year": 2004,
+        "duration": 45,
+        "id": 430754
+    },
+    {
+        "title": "Toy Story 3",
+        "year": 2010,
+        "duration": 103,
+        "id": 435761
+    },
+    {
+        "title": "The Draw-Back",
+        "year": 1927,
+        "duration": null,
+        "id": 440338
+    },
+    {
+        "title": "Lincoln",
+        "year": 2012,
+        "duration": 150,
+        "id": 443272
+    },
+    {
+        "title": "Sunshine",
+        "year": 2007,
+        "duration": 107,
+        "id": 448134
+    },
+    {
+        "title": "Hancock",
+        "year": 2008,
+        "duration": 92,
+        "id": 448157
+    },
+    {
+        "title": "Shemp Eats the Moon",
+        "year": 1978,
+        "duration": null,
+        "id": 453397
+    },
+    {
+        "title": "42",
+        "year": 2013,
+        "duration": 128,
+        "id": 453562
+    },
+    {
+        "title": "The Pursuit of Happyness",
+        "year": 2006,
+        "duration": 117,
+        "id": 454921
+    },
+    {
+        "title": "Mass of Angels",
+        "year": 2004,
+        "duration": 85,
+        "id": 457409
+    },
+    {
+        "title": "Second in Command",
+        "year": 2006,
+        "duration": 92,
+        "id": 458471
+    },
+    {
+        "title": "The Great Buck Howard",
+        "year": 2008,
+        "duration": 90,
+        "id": 460810
+    },
+    {
+        "title": "Grindhouse",
+        "year": 2007,
+        "duration": 191,
+        "id": 462322
+    },
+    {
+        "title": "The Hard Corps",
+        "year": 2006,
+        "duration": 110,
+        "id": 462329
+    },
+    {
+        "title": "Rambo",
+        "year": 2008,
+        "duration": 92,
+        "id": 462499
+    },
+    {
+        "title": "The Simpsons Movie",
+        "year": 2007,
+        "duration": 87,
+        "id": 462538
+    },
+    {
+        "title": "The Fast and the Furious: Tokyo Drift",
+        "year": 2006,
+        "duration": 104,
+        "id": 463985
+    },
+    {
+        "title": "The Host",
+        "year": 2006,
+        "duration": 120,
+        "id": 468492
+    },
+    {
+        "title": "The Dark Knight",
+        "year": 2008,
+        "duration": 152,
+        "id": 468569
+    },
+    {
+        "title": "Charlie Wilson's War",
+        "year": 2007,
+        "duration": 102,
+        "id": 472062
+    },
+    {
+        "title": "The Making of 'The Frighteners'",
+        "year": 1998,
+        "duration": 269,
+        "id": 474794
+    },
+    {
+        "title": "Hail, Caesar!",
+        "year": 2016,
+        "duration": 106,
+        "id": 475290
+    },
+    {
+        "title": "Night of the Day of the Dawn of the Son of the Bride of the Return of the Revenge of the Terror of the Attack of the Evil, Mutant, Hellbound, Flesh-Eating Subhumanoid Zombified Living Dead, Part 3",
+        "year": 2005,
+        "duration": 80,
+        "id": 475343
+    },
+    {
+        "title": "Extremely Loud & Incredibly Close",
+        "year": 2011,
+        "duration": 129,
+        "id": 477302
+    },
+    {
+        "title": "No Country for Old Men",
+        "year": 2007,
+        "duration": 122,
+        "id": 477348
+    },
+    {
+        "title": "A Home-Made Man",
+        "year": 1928,
+        "duration": 15,
+        "id": 478641
+    },
+    {
+        "title": "Rocky Balboa",
+        "year": 2006,
+        "duration": 102,
+        "id": 479143
+    },
+    {
+        "title": "The Beguiled: The Storyteller",
+        "year": 1971,
+        "duration": 12,
+        "id": 479222
+    },
+    {
+        "title": "I Am Legend",
+        "year": 2007,
+        "duration": 101,
+        "id": 480249
+    },
+    {
+        "title": "The Prestige",
+        "year": 2006,
+        "duration": 130,
+        "id": 482571
+    },
+    {
+        "title": "Leonard Cohen: Dance Me to the End of Love",
+        "year": 1995,
+        "duration": 6,
+        "id": 488005
+    },
+    {
+        "title": "Silence",
+        "year": 2016,
+        "duration": 161,
+        "id": 490215
+    },
+    {
+        "title": "Letters from Iwo Jima",
+        "year": 2006,
+        "duration": 141,
+        "id": 498380
+    },
+    {
+        "title": "We Own the Night",
+        "year": 2007,
+        "duration": 117,
+        "id": 498399
+    },
+    {
+        "title": "Avatar",
+        "year": 2009,
+        "duration": 162,
+        "id": 499549
+    },
+    {
+        "title": "Body of Lies",
+        "year": 2008,
+        "duration": 128,
+        "id": 758774
+    },
+    {
+        "title": "Indiana Jones and the Temple of the Forbidden Eye Ride",
+        "year": 1995,
+        "duration": 2,
+        "id": 764648
+    },
+    {
+        "title": "American Gangster",
+        "year": 2007,
+        "duration": 157,
+        "id": 765429
+    },
+    {
+        "title": "Michael Jackson: Number Ones",
+        "year": 2003,
+        "duration": 91,
+        "id": 768131
+    },
+    {
+        "title": "Seeing Stars",
+        "year": 1927,
+        "duration": null,
+        "id": 778043
+    },
+    {
+        "title": "Until Death",
+        "year": 2007,
+        "duration": 101,
+        "id": 783598
+    },
+    {
+        "title": "Angels & Demons",
+        "year": 2009,
+        "duration": 138,
+        "id": 808151
+    },
+    {
+        "title": "A Letter to Elia",
+        "year": 2010,
+        "duration": 60,
+        "id": 808245
+    },
+    {
+        "title": "New York, I Love You",
+        "year": 2008,
+        "duration": 103,
+        "id": 808399
+    },
+    {
+        "title": "Seven Pounds",
+        "year": 2008,
+        "duration": 123,
+        "id": 814314
+    },
+    {
+        "title": "Interstellar",
+        "year": 2014,
+        "duration": 169,
+        "id": 816692
+    },
+    {
+        "title": "Always Tell Your Wife",
+        "year": 1923,
+        "duration": 20,
+        "id": 818899
+    },
+    {
+        "title": "Howard Stern: Shut Up and Listen",
+        "year": 1997,
+        "duration": 100,
+        "id": 824345
+    },
+    {
+        "title": "Changeling",
+        "year": 2008,
+        "duration": 141,
+        "id": 824747
+    },
+    {
+        "title": "Heist School",
+        "year": 2006,
+        "duration": 120,
+        "id": 826631
+    },
+    {
+        "title": "The Shepherd",
+        "year": 2008,
+        "duration": 95,
+        "id": 827521
+    },
+    {
+        "title": "Quantum of Solace",
+        "year": 2008,
+        "duration": 106,
+        "id": 830515
+    },
+    {
+        "title": "Reservation Road",
+        "year": 2007,
+        "duration": 102,
+        "id": 831884
+    },
+    {
+        "title": "The Lost Spider Pit Sequence",
+        "year": 2005,
+        "duration": 6,
+        "id": 832446
+    },
+    {
+        "title": "Attack of the Helping Hand!",
+        "year": 1979,
+        "duration": 6,
+        "id": 835020
+    },
+    {
+        "title": "Diary of the Dead",
+        "year": 2007,
+        "duration": 95,
+        "id": 848557
+    },
+    {
+        "title": "Sir Billi",
+        "year": 2012,
+        "duration": 76,
+        "id": 851471
+    },
+    {
+        "title": "Digital Short Films by Three Filmmakers 2004",
+        "year": 2004,
+        "duration": 98,
+        "id": 874886
+    },
+    {
+        "title": "Burn After Reading",
+        "year": 2008,
+        "duration": 96,
+        "id": 887883
+    },
+    {
+        "title": "Shine a Light",
+        "year": 2008,
+        "duration": 122,
+        "id": 893382
+    },
+    {
+        "title": "The Hobbit: An Unexpected Journey",
+        "year": 2012,
+        "duration": 169,
+        "id": 903624
+    },
+    {
+        "title": "Sukiyaki Western Django",
+        "year": 2007,
+        "duration": 121,
+        "id": 906665
+    },
+    {
+        "title": "Crossing Over",
+        "year": 2009,
+        "duration": 113,
+        "id": 924129
+    },
+    {
+        "title": "Redacted",
+        "year": 2007,
+        "duration": 90,
+        "id": 937237
+    },
+    {
+        "title": "Robin Hood",
+        "year": 2010,
+        "duration": 140,
+        "id": 955308
+    },
+    {
+        "title": "Reach Me",
+        "year": 2014,
+        "duration": 95,
+        "id": 959306
+    },
+    {
+        "title": "Hugo",
+        "year": 2011,
+        "duration": 126,
+        "id": 970179
+    },
+    {
+        "title": "To Each His Own Cinema",
+        "year": 2007,
+        "duration": 100,
+        "id": 973844
+    },
+    {
+        "title": "Tokyo!",
+        "year": 2008,
+        "duration": 112,
+        "id": 976060
+    },
+    {
+        "title": "The Adventures of Tintin",
+        "year": 2011,
+        "duration": 107,
+        "id": 983193
+    },
+    {
+        "title": "Hunger",
+        "year": 2008,
+        "duration": 96,
+        "id": 986233
+    },
+    {
+        "title": "The Wolf of Wall Street",
+        "year": 2013,
+        "duration": 180,
+        "id": 993846
+    },
+    {
+        "title": "Slumdog Millionaire",
+        "year": 2008,
+        "duration": 120,
+        "id": 1010048
+    },
+    {
+        "title": "Fast & Furious",
+        "year": 2009,
+        "duration": 107,
+        "id": 1013752
+    },
+    {
+        "title": "A Serious Man",
+        "year": 2009,
+        "duration": 106,
+        "id": 1019452
+    },
+    {
+        "title": "Gemini Man",
+        "year": 2019,
+        "duration": 117,
+        "id": 1025100
+    },
+    {
+        "title": "Death Proof",
+        "year": 2007,
+        "duration": 127,
+        "id": 1028528
+    },
+    {
+        "title": "Invictus",
+        "year": 2009,
+        "duration": 134,
+        "id": 1057500
+    },
+    {
+        "title": "Skyfall",
+        "year": 2012,
+        "duration": 143,
+        "id": 1074638
+    },
+    {
+        "title": "Planet Terror",
+        "year": 2007,
+        "duration": 105,
+        "id": 1077258
+    },
+    {
+        "title": "Paul",
+        "year": 2011,
+        "duration": 104,
+        "id": 1092026
+    },
+    {
+        "title": "Two Lovers",
+        "year": 2008,
+        "duration": 110,
+        "id": 1103275
+    },
+    {
+        "title": "George Harrison: Living in the Material World",
+        "year": 2011,
+        "duration": 208,
+        "id": 1113829
+    },
+    {
+        "title": "Morning Glory",
+        "year": 2010,
+        "duration": 107,
+        "id": 1126618
+    },
+    {
+        "title": "Drag Me to Hell",
+        "year": 2009,
+        "duration": 99,
+        "id": 1127180
+    },
+    {
+        "title": "Shutter Island",
+        "year": 2010,
+        "duration": 138,
+        "id": 1130884
+    },
+    {
+        "title": "JCVD",
+        "year": 2008,
+        "duration": 97,
+        "id": 1130988
+    },
+    {
+        "title": "A Tale of Love and Darkness",
+        "year": 2015,
+        "duration": 95,
+        "id": 1135989
+    },
+    {
+        "title": "Incredible Love",
+        "year": 2009,
+        "duration": 142,
+        "id": 1144804
+    },
+    {
+        "title": "The Key to Reserva",
+        "year": 2007,
+        "duration": 10,
+        "id": 1151319
+    },
+    {
+        "title": "Man zhou ren",
+        "year": 1973,
+        "duration": 89,
+        "id": 1164607
+    },
+    {
+        "title": "The Hobbit: The Desolation of Smaug",
+        "year": 2013,
+        "duration": 161,
+        "id": 1170358
+    },
+    {
+        "title": "Crush and Blush",
+        "year": 2008,
+        "duration": 101,
+        "id": 1173949
+    },
+    {
+        "title": "Gran Torino",
+        "year": 2008,
+        "duration": 116,
+        "id": 1205489
+    },
+    {
+        "title": "Rambo: Last Blood",
+        "year": 2019,
+        "duration": 89,
+        "id": 1206885
+    },
+    {
+        "title": "Escape Plan",
+        "year": 2013,
+        "duration": 115,
+        "id": 1211956
+    },
+    {
+        "title": "Hereafter",
+        "year": 2010,
+        "duration": 129,
+        "id": 1212419
+    },
+    {
+        "title": "Mother",
+        "year": 2009,
+        "duration": 129,
+        "id": 1216496
+    },
+    {
+        "title": "Zookeeper",
+        "year": 2011,
+        "duration": 102,
+        "id": 1222817
+    },
+    {
+        "title": "Anchorman 2: The Legend Continues",
+        "year": 2013,
+        "duration": 119,
+        "id": 1229340
+    },
+    {
+        "title": "Extraordinary Measures",
+        "year": 2010,
+        "duration": 106,
+        "id": 1244659
+    },
+    {
+        "title": "Crossing the Line",
+        "year": 2008,
+        "duration": 15,
+        "id": 1251751
+    },
+    {
+        "title": "Cleveland Smith: Bounty Hunter",
+        "year": 1982,
+        "duration": 9,
+        "id": 1258131
+    },
+    {
+        "title": "Eve",
+        "year": 2008,
+        "duration": 17,
+        "id": 1278345
+    },
+    {
+        "title": "Soldiers",
+        "year": 2014,
+        "duration": 108,
+        "id": 1286146
+    },
+    {
+        "title": "A Timeless Call",
+        "year": 2008,
+        "duration": 7,
+        "id": 1287857
+    },
+    {
+        "title": "Universal Soldier: Regeneration",
+        "year": 2009,
+        "duration": 97,
+        "id": 1288403
+    },
+    {
+        "title": "xXx: Return of Xander Cage",
+        "year": 2017,
+        "duration": 107,
+        "id": 1293847
+    },
+    {
+        "title": "The Irishman",
+        "year": 2019,
+        "duration": 209,
+        "id": 1302006
+    },
+    {
+        "title": "Kung Fu Panda 2",
+        "year": 2011,
+        "duration": 90,
+        "id": 1302011
+    },
+    {
+        "title": "Bullet to the Head",
+        "year": 2012,
+        "duration": 92,
+        "id": 1308729
+    },
+    {
+        "title": "The Expendables",
+        "year": 2010,
+        "duration": 103,
+        "id": 1320253
+    },
+    {
+        "title": "Red Cliff II",
+        "year": 2009,
+        "duration": 142,
+        "id": 1326972
+    },
+    {
+        "title": "Terminator Genisys",
+        "year": 2015,
+        "duration": 126,
+        "id": 1340138
+    },
+    {
+        "title": "The Dark Knight Rises",
+        "year": 2012,
+        "duration": 164,
+        "id": 1345836
+    },
+    {
+        "title": "I'm Still Here",
+        "year": 2010,
+        "duration": 108,
+        "id": 1356864
+    },
+    {
+        "title": "Cloud Atlas",
+        "year": 2012,
+        "duration": 172,
+        "id": 1371111
+    },
+    {
+        "title": "The Fighting Generation",
+        "year": 1944,
+        "duration": 2,
+        "id": 1375299
+    },
+    {
+        "title": "Inception",
+        "year": 2010,
+        "duration": 148,
+        "id": 1375666
+    },
+    {
+        "title": "Suicide Squad",
+        "year": 2016,
+        "duration": 123,
+        "id": 1386697
+    },
+    {
+        "title": "True Grit",
+        "year": 2010,
+        "duration": 110,
+        "id": 1403865
+    },
+    {
+        "title": "Men in Black 3",
+        "year": 2012,
+        "duration": 106,
+        "id": 1409024
+    },
+    {
+        "title": "Riddick",
+        "year": 2013,
+        "duration": 119,
+        "id": 1411250
+    },
+    {
+        "title": "Paranoia",
+        "year": 2013,
+        "duration": 106,
+        "id": 1413495
+    },
+    {
+        "title": "Assassination Games",
+        "year": 2011,
+        "duration": 101,
+        "id": 1436568
+    },
+    {
+        "title": "The Founding of a Republic",
+        "year": 2009,
+        "duration": 138,
+        "id": 1438461
+    },
+    {
+        "title": "Prometheus",
+        "year": 2012,
+        "duration": 124,
+        "id": 1446714
+    },
+    {
+        "title": "Beyond All Boundaries",
+        "year": 2009,
+        "duration": 30,
+        "id": 1448751
+    },
+    {
+        "title": "Reign of Assassins",
+        "year": 2010,
+        "duration": 117,
+        "id": 1460743
+    },
+    {
+        "title": "Team-Up: John Woo and Shinji Aramaki",
+        "year": 2008,
+        "duration": 16,
+        "id": 1473131
+    },
+    {
+        "title": "Bad Boys for Life",
+        "year": 2020,
+        "duration": 124,
+        "id": 1502397
+    },
+    {
+        "title": "Exodus: Gods and Kings",
+        "year": 2014,
+        "duration": 150,
+        "id": 1528100
+    },
+    {
+        "title": "Captain Phillips",
+        "year": 2013,
+        "duration": 134,
+        "id": 1535109
+    },
+    {
+        "title": "Los Bandoleros",
+        "year": 2009,
+        "duration": 20,
+        "id": 1538503
+    },
+    {
+        "title": "127 Hours",
+        "year": 2010,
+        "duration": 94,
+        "id": 1542344
+    },
+    {
+        "title": "The Last Stand",
+        "year": 2013,
+        "duration": 107,
+        "id": 1549920
+    },
+    {
+        "title": "The Master",
+        "year": 2012,
+        "duration": 138,
+        "id": 1560747
+    },
+    {
+        "title": "War Horse",
+        "year": 2011,
+        "duration": 146,
+        "id": 1568911
+    },
+    {
+        "title": "Larry Crowne",
+        "year": 2011,
+        "duration": 98,
+        "id": 1583420
+    },
+    {
+        "title": "Fast Five",
+        "year": 2011,
+        "duration": 130,
+        "id": 1596343
+    },
+    {
+        "title": "Martini Ranch: Reach",
+        "year": 1988,
+        "duration": 8,
+        "id": 1612767
+    },
+    {
+        "title": "J. Edgar",
+        "year": 2011,
+        "duration": 137,
+        "id": 1616195
+    },
+    {
+        "title": "The Last Witch Hunter",
+        "year": 2015,
+        "duration": 106,
+        "id": 1618442
+    },
+    {
+        "title": "Oz The Great and Powerful",
+        "year": 2013,
+        "duration": 130,
+        "id": 1623205
+    },
+    {
+        "title": "Bloodshot",
+        "year": 2020,
+        "duration": 109,
+        "id": 1634106
+    },
+    {
+        "title": "The Age of Adaline",
+        "year": 2015,
+        "duration": 112,
+        "id": 1655441
+    },
+    {
+        "title": "Universal Soldier: Day of Reckoning",
+        "year": 2012,
+        "duration": 114,
+        "id": 1659343
+    },
+    {
+        "title": "Grudge Match",
+        "year": 2013,
+        "duration": 113,
+        "id": 1661382
+    },
+    {
+        "title": "Ready Player One",
+        "year": 2018,
+        "duration": 140,
+        "id": 1677720
+    },
+    {
+        "title": "Beginning of the Great Revival",
+        "year": 2011,
+        "duration": 140,
+        "id": 1699513
+    },
+    {
+        "title": "Snowpiercer",
+        "year": 2013,
+        "duration": 126,
+        "id": 1706620
+    },
+    {
+        "title": "Shame",
+        "year": 2011,
+        "duration": 101,
+        "id": 1723811
+    },
+    {
+        "title": "Rzhevskiy protiv Napoleona",
+        "year": 2012,
+        "duration": 95,
+        "id": 1728245
+    },
+    {
+        "title": "Ender's Game",
+        "year": 2013,
+        "duration": 114,
+        "id": 1731141
+    },
+    {
+        "title": "Public Speaking",
+        "year": 2010,
+        "duration": 84,
+        "id": 1734477
+    },
+    {
+        "title": "Dragon Eyes",
+        "year": 2012,
+        "duration": 91,
+        "id": 1735862
+    },
+    {
+        "title": "Jersey Boys",
+        "year": 2014,
+        "duration": 134,
+        "id": 1742044
+    },
+    {
+        "title": "Sabotage",
+        "year": 2014,
+        "duration": 109,
+        "id": 1742334
+    },
+    {
+        "title": "Electric City",
+        "year": 2012,
+        "duration": null,
+        "id": 1746961
+    },
+    {
+        "title": "The Expendables 2",
+        "year": 2012,
+        "duration": 103,
+        "id": 1764651
+    },
+    {
+        "title": "She's Funny That Way",
+        "year": 2014,
+        "duration": 93,
+        "id": 1767372
+    },
+    {
+        "title": "Inherent Vice",
+        "year": 2014,
+        "duration": 148,
+        "id": 1791528
+    },
+    {
+        "title": "Frankenstein",
+        "year": 2011,
+        "duration": 130,
+        "id": 1795369
+    },
+    {
+        "title": "Her",
+        "year": 2013,
+        "duration": 126,
+        "id": 1798709
+    },
+    {
+        "title": "Sam Raimi Early Shorts",
+        "year": 1985,
+        "duration": 157,
+        "id": 1813593
+    },
+    {
+        "title": "After Earth",
+        "year": 2013,
+        "duration": 100,
+        "id": 1815862
+    },
+    {
+        "title": "3 Geezers!",
+        "year": 2013,
+        "duration": 81,
+        "id": 1825784
+    },
+    {
+        "title": "Passion",
+        "year": 2012,
+        "duration": 102,
+        "id": 1829012
+    },
+    {
+        "title": "Beur sur la ville",
+        "year": 2011,
+        "duration": 99,
+        "id": 1830499
+    },
+    {
+        "title": "Winter's Tale",
+        "year": 2014,
+        "duration": 118,
+        "id": 1837709
+    },
+    {
+        "title": "Night of the Day of the Dawn of the Son of the Bride of the Return of the Revenge of the Terror of the Attack of the Evil Mutant Hellbound Flesh Eating Crawling Alien Zombified Subhumanoid Living Dead, Part 5",
+        "year": 2011,
+        "duration": 84,
+        "id": 1838609
+    },
+    {
+        "title": "Fanboy",
+        "year": 2019,
+        "duration": 39,
+        "id": 1840320
+    },
+    {
+        "title": "Toy Story Toons: Hawaiian Vacation",
+        "year": 2011,
+        "duration": 6,
+        "id": 1850374
+    },
+    {
+        "title": "Django Unchained",
+        "year": 2012,
+        "duration": 165,
+        "id": 1853728
+    },
+    {
+        "title": "Blade Runner 2049",
+        "year": 2017,
+        "duration": 164,
+        "id": 1856101
+    },
+    {
+        "title": "Maggie",
+        "year": 2015,
+        "duration": 95,
+        "id": 1881002
+    },
+    {
+        "title": "Fast & Furious 6",
+        "year": 2013,
+        "duration": 130,
+        "id": 1905041
+    },
+    {
+        "title": "Trance",
+        "year": 2013,
+        "duration": 101,
+        "id": 1924429
+    },
+    {
+        "title": "The Immigrant",
+        "year": 2013,
+        "duration": 120,
+        "id": 1951181
+    },
+    {
+        "title": "Love Birds in Bondage",
+        "year": 1983,
+        "duration": null,
+        "id": 1959459
+    },
+    {
+        "title": "Vegetables",
+        "year": 1989,
+        "duration": 90,
+        "id": 1959602
+    },
+    {
+        "title": "6 Bullets",
+        "year": 2012,
+        "duration": 115,
+        "id": 1975249
+    },
+    {
+        "title": "Toy Story 4",
+        "year": 2019,
+        "duration": 100,
+        "id": 1979376
+    },
+    {
+        "title": "Incoherence",
+        "year": 1994,
+        "duration": 31,
+        "id": 1997399
+    },
+    {
+        "title": "Guardians of the Galaxy",
+        "year": 2014,
+        "duration": 121,
+        "id": 2015381
+    },
+    {
+        "title": "12 Years a Slave",
+        "year": 2013,
+        "duration": 134,
+        "id": 2024544
+    },
+    {
+        "title": "Toy Story Toons: Small Fry",
+        "year": 2011,
+        "duration": 7,
+        "id": 2033372
+    },
+    {
+        "title": "Epic Rap Battles of History",
+        "year": 2010,
+        "duration": null,
+        "id": 2039625
+    },
+    {
+        "title": "Alien Uprising",
+        "year": 2012,
+        "duration": 101,
+        "id": 2040578
+    },
+    {
+        "title": "Inside Llewyn Davis",
+        "year": 2013,
+        "duration": 104,
+        "id": 2042568
+    },
+    {
+        "title": "The Neighborhood",
+        "year": 2001,
+        "duration": null,
+        "id": 2061828
+    },
+    {
+        "title": "Steve Jobs",
+        "year": 2015,
+        "duration": 122,
+        "id": 2080374
+    },
+    {
+        "title": "Trouble with the Curve",
+        "year": 2012,
+        "duration": 111,
+        "id": 2083383
+    },
+    {
+        "title": "Swelter",
+        "year": 2014,
+        "duration": 96,
+        "id": 2112277
+    },
+    {
+        "title": "Influenza",
+        "year": 2004,
+        "duration": 30,
+        "id": 2115336
+    },
+    {
+        "title": "King Kong 360 3-D",
+        "year": 2010,
+        "duration": 3,
+        "id": 2118664
+    },
+    {
+        "title": "Saving Mr. Banks",
+        "year": 2013,
+        "duration": 125,
+        "id": 2140373
+    },
+    {
+        "title": "The Crossing",
+        "year": 2014,
+        "duration": 129,
+        "id": 2150371
+    },
+    {
+        "title": "American Sniper",
+        "year": 2014,
+        "duration": 133,
+        "id": 2179136
+    },
+    {
+        "title": "The Counselor",
+        "year": 2013,
+        "duration": 117,
+        "id": 2193215
+    },
+    {
+        "title": "Welcome to the Jungle",
+        "year": 2013,
+        "duration": 95,
+        "id": 2193265
+    },
+    {
+        "title": "Exodus",
+        "year": 1997,
+        "duration": 1,
+        "id": 2207475
+    },
+    {
+        "title": "The King of Ads",
+        "year": 1991,
+        "duration": 74,
+        "id": 2243597
+    },
+    {
+        "title": "Kung Fu Panda 3",
+        "year": 2016,
+        "duration": 95,
+        "id": 2267968
+    },
+    {
+        "title": "Doomsday Book",
+        "year": 2012,
+        "duration": 115,
+        "id": 2297164
+    },
+    {
+        "title": "London 2012 Olympic Opening Ceremony: Isles of Wonder",
+        "year": 2012,
+        "duration": 352,
+        "id": 2305700
+    },
+    {
+        "title": "The Hobbit: The Battle of the Five Armies",
+        "year": 2014,
+        "duration": 144,
+        "id": 2310332
+    },
+    {
+        "title": "Alien: Covenant",
+        "year": 2017,
+        "duration": 122,
+        "id": 2316204
+    },
+    {
+        "title": "The Expendables 3",
+        "year": 2014,
+        "duration": 126,
+        "id": 2333784
+    },
+    {
+        "title": "Toy Story Toons: Partysaurus Rex",
+        "year": 2012,
+        "duration": 7,
+        "id": 2340678
+    },
+    {
+        "title": "Spectre",
+        "year": 2015,
+        "duration": 148,
+        "id": 2379713
+    },
+    {
+        "title": "Focus",
+        "year": 2015,
+        "duration": 105,
+        "id": 2381941
+    },
+    {
+        "title": "Enemies Closer",
+        "year": 2013,
+        "duration": 85,
+        "id": 2395199
+    },
+    {
+        "title": "Star Wars: Episode VII - The Force Awakens",
+        "year": 2015,
+        "duration": 138,
+        "id": 2488496
+    },
+    {
+        "title": "Billy Lynn's Long Halftime Walk",
+        "year": 2016,
+        "duration": 113,
+        "id": 2513074
+    },
+    {
+        "title": "Star Wars: Episode IX - The Rise of Skywalker",
+        "year": 2019,
+        "duration": 142,
+        "id": 2527338
+    },
+    {
+        "title": "Bear",
+        "year": 1993,
+        "duration": 10,
+        "id": 2552386
+    },
+    {
+        "title": "Five Easy Pieces",
+        "year": 1995,
+        "duration": 7,
+        "id": 2552406
+    },
+    {
+        "title": "Static",
+        "year": 2009,
+        "duration": 7,
+        "id": 2552452
+    },
+    {
+        "title": "Campus Code",
+        "year": 2015,
+        "duration": 110,
+        "id": 2639514
+    },
+    {
+        "title": "T2 Trainspotting",
+        "year": 2017,
+        "duration": 117,
+        "id": 2763304
+    },
+    {
+        "title": "Michael Jackson: Liberian Girl",
+        "year": 1989,
+        "duration": 4,
+        "id": 2794402
+    },
+    {
+        "title": "Furious 7",
+        "year": 2015,
+        "duration": 137,
+        "id": 2820852
+    },
+    {
+        "title": "Ratchet & Clank",
+        "year": 2016,
+        "duration": 94,
+        "id": 2865120
+    },
+    {
+        "title": "Deadpan",
+        "year": 1997,
+        "duration": 5,
+        "id": 2886622
+    },
+    {
+        "title": "A Hologram for the King",
+        "year": 2016,
+        "duration": 98,
+        "id": 2980210
+    },
+    {
+        "title": "White Man",
+        "year": 1994,
+        "duration": 18,
+        "id": 2991052
+    },
+    {
+        "title": "Memories in My Frame",
+        "year": 1994,
+        "duration": 5,
+        "id": 2999786
+    },
+    {
+        "title": "The Jungle Book",
+        "year": 2016,
+        "duration": 106,
+        "id": 3040964
+    },
+    {
+        "title": "Inferno",
+        "year": 2016,
+        "duration": 121,
+        "id": 3062096
+    },
+    {
+        "title": "Creed",
+        "year": 2015,
+        "duration": 133,
+        "id": 3076658
+    },
+    {
+        "title": "Kickboxer: Vengeance",
+        "year": 2016,
+        "duration": 90,
+        "id": 3082898
+    },
+    {
+        "title": "Riddick: Blindsided",
+        "year": 2013,
+        "duration": 6,
+        "id": 3095416
+    },
+    {
+        "title": "Boxing Bloopers",
+        "year": 2007,
+        "duration": 2,
+        "id": 3125766
+    },
+    {
+        "title": "Babylon",
+        "year": 2014,
+        "duration": 50,
+        "id": 3138900
+    },
+    {
+        "title": "A Beautiful Day in the Neighborhood",
+        "year": 2019,
+        "duration": 109,
+        "id": 3224458
+    },
+    {
+        "title": "Sully",
+        "year": 2016,
+        "duration": 96,
+        "id": 3263904
+    },
+    {
+        "title": "Domino",
+        "year": 2019,
+        "duration": 89,
+        "id": 3282076
+    },
+    {
+        "title": "Concussion",
+        "year": 2015,
+        "duration": 123,
+        "id": 3322364
+    },
+    {
+        "title": "Just Above My Head",
+        "year": 1996,
+        "duration": 10,
+        "id": 3323956
+    },
+    {
+        "title": "Western Deep",
+        "year": 2002,
+        "duration": 24,
+        "id": 3323988
+    },
+    {
+        "title": "Stage",
+        "year": 1996,
+        "duration": null,
+        "id": 3327622
+    },
+    {
+        "title": "Cold Breath",
+        "year": 2000,
+        "duration": 10,
+        "id": 3327634
+    },
+    {
+        "title": "Rayners Lane",
+        "year": 2008,
+        "duration": 11,
+        "id": 3327650
+    },
+    {
+        "title": "Prey",
+        "year": 1999,
+        "duration": 6,
+        "id": 3327658
+    },
+    {
+        "title": "7th Nov.",
+        "year": 2001,
+        "duration": 23,
+        "id": 3327668
+    },
+    {
+        "title": "Girls, Tricky",
+        "year": 2001,
+        "duration": 15,
+        "id": 3327674
+    },
+    {
+        "title": "Illuminer",
+        "year": 2001,
+        "duration": 15,
+        "id": 3327680
+    },
+    {
+        "title": "Charlotte",
+        "year": 2004,
+        "duration": 6,
+        "id": 3327694
+    },
+    {
+        "title": "Pursuit",
+        "year": 2005,
+        "duration": 14,
+        "id": 3327696
+    },
+    {
+        "title": "Carib's Leap",
+        "year": 2002,
+        "duration": 41,
+        "id": 3327702
+    },
+    {
+        "title": "Gravesend",
+        "year": 2007,
+        "duration": 18,
+        "id": 3329376
+    },
+    {
+        "title": "Running Thunder",
+        "year": 2007,
+        "duration": 12,
+        "id": 3329378
+    },
+    {
+        "title": "Unexploded",
+        "year": 2007,
+        "duration": 1,
+        "id": 3329392
+    },
+    {
+        "title": "Drumroll",
+        "year": 1998,
+        "duration": 22,
+        "id": 3329406
+    },
+    {
+        "title": "Giardini",
+        "year": 2009,
+        "duration": 30,
+        "id": 3329434
+    },
+    {
+        "title": "Catch",
+        "year": 1997,
+        "duration": 2,
+        "id": 3329650
+    },
+    {
+        "title": "New York City... Melting Point",
+        "year": 1966,
+        "duration": null,
+        "id": 3413658
+    },
+    {
+        "title": "The Hateful Eight",
+        "year": 2015,
+        "duration": 168,
+        "id": 3460252
+    },
+    {
+        "title": "Back Beyond",
+        "year": 2013,
+        "duration": 20,
+        "id": 3471822
+    },
+    {
+        "title": "Pound of Flesh",
+        "year": 2015,
+        "duration": 104,
+        "id": 3488328
+    },
+    {
+        "title": "Vanity Fair: Killers Kill, Dead Men Die",
+        "year": 2007,
+        "duration": 6,
+        "id": 3492560
+    },
+    {
+        "title": "Ithaca",
+        "year": 2015,
+        "duration": 96,
+        "id": 3501590
+    },
+    {
+        "title": "The 50 Year Argument",
+        "year": 2014,
+        "duration": 97,
+        "id": 3510820
+    },
+    {
+        "title": "Richard Jewell",
+        "year": 2019,
+        "duration": 131,
+        "id": 3513548
+    },
+    {
+        "title": "Backtrace",
+        "year": 2018,
+        "duration": 92,
+        "id": 3588588
+    },
+    {
+        "title": "The Martian",
+        "year": 2015,
+        "duration": 144,
+        "id": 3659388
+    },
+    {
+        "title": "Bridge of Spies",
+        "year": 2015,
+        "duration": 142,
+        "id": 3682448
+    },
+    {
+        "title": "The BFG",
+        "year": 2016,
+        "duration": 117,
+        "id": 3691740
+    },
+    {
+        "title": "Irrational Man",
+        "year": 2015,
+        "duration": 95,
+        "id": 3715320
+    },
+    {
+        "title": "Fast & Furious: Supercharged",
+        "year": 2015,
+        "duration": 11,
+        "id": 3757982
+    },
+    {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017,
+        "duration": 136,
+        "id": 3896198
+    },
+    {
+        "title": "Okja",
+        "year": 2017,
+        "duration": 120,
+        "id": 3967856
+    },
+    {
+        "title": "The Audition",
+        "year": 2015,
+        "duration": 16,
+        "id": 4016250
+    },
+    {
+        "title": "The Crossing 2",
+        "year": 2015,
+        "duration": 131,
+        "id": 4027270
+    },
+    {
+        "title": "JCVD's Make My Movie Challenge",
+        "year": 2014,
+        "duration": null,
+        "id": 4083004
+    },
+    {
+        "title": "Ashes",
+        "year": 2014,
+        "duration": 10,
+        "id": 4149768
+    },
+    {
+        "title": "Avengers: Infinity War",
+        "year": 2018,
+        "duration": 149,
+        "id": 4154756
+    },
+    {
+        "title": "Avengers: Endgame",
+        "year": 2019,
+        "duration": 181,
+        "id": 4154796
+    },
+    {
+        "title": "Animal Crackers",
+        "year": 2017,
+        "duration": 105,
+        "id": 4155534
+    },
+    {
+        "title": "Stryker's War",
+        "year": 1980,
+        "duration": 45,
+        "id": 4200472
+    },
+    {
+        "title": "Widows",
+        "year": 2018,
+        "duration": 129,
+        "id": 4218572
+    },
+    {
+        "title": "Sink & Rise",
+        "year": 2003,
+        "duration": 7,
+        "id": 4222566
+    },
+    {
+        "title": "Apple Mac: 1984",
+        "year": 1984,
+        "duration": 1,
+        "id": 4227346
+    },
+    {
+        "title": "The Circle",
+        "year": 2017,
+        "duration": 110,
+        "id": 4287320
+    },
+    {
+        "title": "Will Smith Feat. TRÂ-Knox: Black Suits Comin' (Nod Ya Head)",
+        "year": 2002,
+        "duration": 4,
+        "id": 4353834
+    },
+    {
+        "title": "Kanye West: All Day/I Feel Like That",
+        "year": 2015,
+        "duration": 9,
+        "id": 4510600
+    },
+    {
+        "title": "Manhunt",
+        "year": 2017,
+        "duration": 106,
+        "id": 4537986
+    },
+    {
+        "title": "Aftermath",
+        "year": 2017,
+        "duration": 94,
+        "id": 4581576
+    },
+    {
+        "title": "The Fate of the Furious",
+        "year": 2017,
+        "duration": 136,
+        "id": 4630562
+    },
+    {
+        "title": "Bruce Springsteen: Dancing in the Dark",
+        "year": 1984,
+        "duration": 4,
+        "id": 4664524
+    },
+    {
+        "title": "Collateral Beauty",
+        "year": 2016,
+        "duration": 97,
+        "id": 4682786
+    },
+    {
+        "title": "Jian Bing Man",
+        "year": 2015,
+        "duration": 113,
+        "id": 4818250
+    },
+    {
+        "title": "Terminator Genisys: The YouTube Chronicles",
+        "year": 2015,
+        "duration": null,
+        "id": 4824394
+    },
+    {
+        "title": "Quay",
+        "year": 2015,
+        "duration": 8,
+        "id": 4907572
+    },
+    {
+        "title": "The Sisters Brothers",
+        "year": 2018,
+        "duration": 122,
+        "id": 4971344
+    },
+    {
+        "title": "Dunkirk",
+        "year": 2017,
+        "duration": 106,
+        "id": 5013056
+    },
+    {
+        "title": "L'Agent",
+        "year": 2013,
+        "duration": 6,
+        "id": 5066196
+    },
+    {
+        "title": "Club Oscar",
+        "year": 2005,
+        "duration": 3,
+        "id": 5091774
+    },
+    {
+        "title": "L'Agent by Agent Provocateur",
+        "year": 2014,
+        "duration": 3,
+        "id": 5092936
+    },
+    {
+        "title": "Out West",
+        "year": 1972,
+        "duration": 2,
+        "id": 5108018
+    },
+    {
+        "title": "The Secret Life of Pets 2",
+        "year": 2019,
+        "duration": 86,
+        "id": 5113040
+    },
+    {
+        "title": "Kickboxer: Retaliation",
+        "year": 2018,
+        "duration": 110,
+        "id": 5208950
+    },
+    {
+        "title": "All the Money in the World",
+        "year": 2017,
+        "duration": 132,
+        "id": 5294550
+    },
+    {
+        "title": "Mary Magdalene",
+        "year": 2018,
+        "duration": 120,
+        "id": 5360996
+    },
+    {
+        "title": "Bright",
+        "year": 2017,
+        "duration": 117,
+        "id": 5519340
+    },
+    {
+        "title": "D&Diesel",
+        "year": 2015,
+        "duration": 30,
+        "id": 5540044
+    },
+    {
+        "title": "Mr. Burberry",
+        "year": 2016,
+        "duration": 3,
+        "id": 5620080
+    },
+    {
+        "title": "Black Water",
+        "year": 2018,
+        "duration": 104,
+        "id": 5622412
+    },
+    {
+        "title": "Killing Gunther",
+        "year": 2017,
+        "duration": 92,
+        "id": 5689068
+    },
+    {
+        "title": "Guns N' Roses: You Could Be Mine",
+        "year": 1991,
+        "duration": 6,
+        "id": 5707430
+    },
+    {
+        "title": "You Were Never Really Here",
+        "year": 2017,
+        "duration": 89,
+        "id": 5742374
+    },
+    {
+        "title": "World Cinema",
+        "year": 2007,
+        "duration": 3,
+        "id": 5747464
+    },
+    {
+        "title": "Kill 'Em All",
+        "year": 2017,
+        "duration": 96,
+        "id": 5767628
+    },
+    {
+        "title": "Nature Is Speaking",
+        "year": 2014,
+        "duration": 2,
+        "id": 5786876
+    },
+    {
+        "title": "Spies in Disguise",
+        "year": 2019,
+        "duration": 102,
+        "id": 5814534
+    },
+    {
+        "title": "Ralph Breaks the Internet",
+        "year": 2018,
+        "duration": 112,
+        "id": 5848272
+    },
+    {
+        "title": "Kill Bill: The Whole Bloody Affair",
+        "year": 2011,
+        "duration": 247,
+        "id": 6019206
+    },
+    {
+        "title": "Greyhound",
+        "year": 2020,
+        "duration": 91,
+        "id": 6048922
+    },
+    {
+        "title": "Yo soy uno entre cien mil",
+        "year": 2016,
+        "duration": 45,
+        "id": 6078296
+    },
+    {
+        "title": "Iggy Pop: Cold Metal",
+        "year": 1988,
+        "duration": 3,
+        "id": 6137862
+    },
+    {
+        "title": "Aladdin",
+        "year": 2019,
+        "duration": 128,
+        "id": 6139732
+    },
+    {
+        "title": "Circasia",
+        "year": 1976,
+        "duration": 11,
+        "id": 6164290
+    },
+    {
+        "title": "DJ Jazzy Jeff & the Fresh Prince: Summertime",
+        "year": 1991,
+        "duration": 4,
+        "id": 6175814
+    },
+    {
+        "title": "Journey to China: The Mystery of Iron Mask",
+        "year": 2019,
+        "duration": 120,
+        "id": 6218010
+    },
+    {
+        "title": "The Black Ghiandola",
+        "year": 2017,
+        "duration": 17,
+        "id": 6244528
+    },
+    {
+        "title": "Soundings",
+        "year": 1980,
+        "duration": 30,
+        "id": 6261498
+    },
+    {
+        "title": "Zeimers in Zambezi",
+        "year": 1970,
+        "duration": null,
+        "id": 6261510
+    },
+    {
+        "title": "Lumberjacks at Play",
+        "year": 1971,
+        "duration": null,
+        "id": 6261532
+    },
+    {
+        "title": "Don't Worry, He Won't Get Far on Foot",
+        "year": 2018,
+        "duration": 114,
+        "id": 6288124
+    },
+    {
+        "title": "The Post",
+        "year": 2017,
+        "duration": 116,
+        "id": 6294822
+    },
+    {
+        "title": "Creed II",
+        "year": 2018,
+        "duration": 130,
+        "id": 6343314
+    },
+    {
+        "title": "The Square Root",
+        "year": 1969,
+        "duration": null,
+        "id": 6344712
+    },
+    {
+        "title": "Larceny",
+        "year": 1996,
+        "duration": null,
+        "id": 6386412
+    },
+    {
+        "title": "The Ballad of Buster Scruggs",
+        "year": 2018,
+        "duration": 133,
+        "id": 6412452
+    },
+    {
+        "title": "Terminator: Dark Fate",
+        "year": 2019,
+        "duration": 128,
+        "id": 6450804
+    },
+    {
+        "title": "Reservoir Dogs: Sundance Institute 1991 June Film Lab",
+        "year": 1991,
+        "duration": 12,
+        "id": 6493238
+    },
+    {
+        "title": "Escape Plan 2: Hades",
+        "year": 2018,
+        "duration": 96,
+        "id": 6513656
+    },
+    {
+        "title": "Cyndi Lauper: The Goonies 'R' Good Enough",
+        "year": 1985,
+        "duration": 7,
+        "id": 6548398
+    },
+    {
+        "title": "The Blind Waiter",
+        "year": 1980,
+        "duration": 16,
+        "id": 6584404
+    },
+    {
+        "title": "The Great Bogus Monkey Pignuts Swindle",
+        "year": 1975,
+        "duration": null,
+        "id": 6618498
+    },
+    {
+        "title": "The James R. Hoffa Story, Part II",
+        "year": 1976,
+        "duration": null,
+        "id": 6618544
+    },
+    {
+        "title": "Attack of the Pillsbury Doughboy",
+        "year": 1976,
+        "duration": null,
+        "id": 6618958
+    },
+    {
+        "title": "Uncivil War Birds",
+        "year": 1976,
+        "duration": null,
+        "id": 6618978
+    },
+    {
+        "title": "Mystery No Mystery",
+        "year": 1976,
+        "duration": null,
+        "id": 6619002
+    },
+    {
+        "title": "Picnic",
+        "year": 1977,
+        "duration": null,
+        "id": 6619020
+    },
+    {
+        "title": "Six Months to Live",
+        "year": 1977,
+        "duration": null,
+        "id": 6619050
+    },
+    {
+        "title": "The Happy Valley Kid",
+        "year": 1977,
+        "duration": null,
+        "id": 6619068
+    },
+    {
+        "title": "Civil War Part II",
+        "year": 1977,
+        "duration": null,
+        "id": 6619080
+    },
+    {
+        "title": "Holding It",
+        "year": 1978,
+        "duration": 19,
+        "id": 6619124
+    },
+    {
+        "title": "William Shakespeare: The Movie",
+        "year": 1979,
+        "duration": null,
+        "id": 6619132
+    },
+    {
+        "title": "The Sappy Sap",
+        "year": 1985,
+        "duration": null,
+        "id": 6619234
+    },
+    {
+        "title": "Roxy Music: Avalon",
+        "year": 1982,
+        "duration": 4,
+        "id": 6696828
+    },
+    {
+        "title": "Wiz Khalifa Ft. Charlie Puth: See You Again",
+        "year": 2015,
+        "duration": 4,
+        "id": 6706132
+    },
+    {
+        "title": "DJ Jazzy Jeff & the Fresh Prince: Parents Just Don't Understand",
+        "year": 1988,
+        "duration": 5,
+        "id": 6734178
+    },
+    {
+        "title": "DJ Jazzy Jeff & the Fresh Prince: Boom! Shake the Room",
+        "year": 1993,
+        "duration": 4,
+        "id": 6734288
+    },
+    {
+        "title": "DJ Jazzy Jeff & the Fresh Prince: I Think I Can Beat Mike Tyson",
+        "year": 1989,
+        "duration": 5,
+        "id": 6734318
+    },
+    {
+        "title": "DJ Jazzy Jeff & the Fresh Prince: Brand New Funk",
+        "year": 1989,
+        "duration": 4,
+        "id": 6734326
+    },
+    {
+        "title": "DJ Jazzy Jeff & the Fresh Prince: A Nightmare on My Street",
+        "year": 1988,
+        "duration": 6,
+        "id": 6734426
+    },
+    {
+        "title": "Parasite",
+        "year": 2019,
+        "duration": 132,
+        "id": 6751668
+    },
+    {
+        "title": "Thunder Perfect Mind",
+        "year": 2010,
+        "duration": null,
+        "id": 6770500
+    },
+    {
+        "title": "Escape Plan: The Extractors",
+        "year": 2019,
+        "duration": 97,
+        "id": 6772804
+    },
+    {
+        "title": "Frankie Goes to Hollywood: Relax, Version 3",
+        "year": 1984,
+        "duration": 4,
+        "id": 6780852
+    },
+    {
+        "title": "The 15:17 to Paris",
+        "year": 2018,
+        "duration": 94,
+        "id": 6802308
+    },
+    {
+        "title": "Will Smith: Men in Black",
+        "year": 1997,
+        "duration": 4,
+        "id": 6844106
+    },
+    {
+        "title": "Alien: Covenant - Prologue: The Crossing",
+        "year": 2017,
+        "duration": 3,
+        "id": 6878760
+    },
+    {
+        "title": "Bon Jovi: Say It Isn't So",
+        "year": 2000,
+        "duration": 4,
+        "id": 7043958
+    },
+    {
+        "title": "Carly Rae Jepsen: I Really Like You",
+        "year": 2015,
+        "duration": 3,
+        "id": 7094450
+    },
+    {
+        "title": "Bruce Springsteen: Streets of Philadelphia",
+        "year": 1994,
+        "duration": 3,
+        "id": 7116194
+    },
+    {
+        "title": "Once Upon a Time... in Hollywood",
+        "year": 2019,
+        "duration": 161,
+        "id": 7131622
+    },
+    {
+        "title": "Disneyland Resort: Guardians of the Galaxy - Mission Breakout!",
+        "year": 2017,
+        "duration": 21,
+        "id": 7134278
+    },
+    {
+        "title": "Iggy Pop: Lust for Life",
+        "year": 1996,
+        "duration": 4,
+        "id": 7226168
+    },
+    {
+        "title": "Student of the Year 2",
+        "year": 2019,
+        "duration": 146,
+        "id": 7255568
+    },
+    {
+        "title": "Will Smith: Just the Two of Us",
+        "year": 1998,
+        "duration": 5,
+        "id": 7263408
+    },
+    {
+        "title": "Joker",
+        "year": 2019,
+        "duration": 122,
+        "id": 7286456
+    },
+    {
+        "title": "Will Smith: Miami",
+        "year": 1998,
+        "duration": 4,
+        "id": 7383472
+    },
+    {
+        "title": "Dimitri Vegas & Like Mike vs. Ummet Ozcan: The Hum",
+        "year": 2015,
+        "duration": null,
+        "id": 7433986
+    },
+    {
+        "title": "The Call of the Wild",
+        "year": 2020,
+        "duration": 100,
+        "id": 7504726
+    },
+    {
+        "title": "Amazing Stories",
+        "year": 1986,
+        "duration": 111,
+        "id": 7763324
+    },
+    {
+        "title": "The Bouncer",
+        "year": 2018,
+        "duration": 94,
+        "id": 7816392
+    },
+    {
+        "title": "We Die Young",
+        "year": 2019,
+        "duration": 92,
+        "id": 7903530
+    },
+    {
+        "title": "They Shall Not Grow Old",
+        "year": 2018,
+        "duration": 99,
+        "id": 7905466
+    },
+    {
+        "title": "The Mule",
+        "year": 2018,
+        "duration": 116,
+        "id": 7959026
+    },
+    {
+        "title": "Yesterday",
+        "year": 2019,
+        "duration": 116,
+        "id": 8079248
+    },
+    {
+        "title": "Bud Light: Ian Up for Whatever",
+        "year": 2014,
+        "duration": 2,
+        "id": 8290264
+    },
+    {
+        "title": "The King of Ads, Part 2",
+        "year": 1993,
+        "duration": 56,
+        "id": 8293244
+    },
+    {
+        "title": "Billy Ocean Feat. The Fresh Prince: I Sleep Much Better (In Someone Else's Bed)",
+        "year": 1989,
+        "duration": 4,
+        "id": 8300642
+    },
+    {
+        "title": "Voices That Care: Voices That Care",
+        "year": 1991,
+        "duration": 5,
+        "id": 8300758
+    },
+    {
+        "title": "The Boys: A Little Romance",
+        "year": 1989,
+        "duration": 4,
+        "id": 8300824
+    },
+    {
+        "title": "Chanel No. 5: The Swimming Pool",
+        "year": 1979,
+        "duration": 1,
+        "id": 8311446
+    },
+    {
+        "title": "Chanel No. 5: L'invitation au rêve/Le jardin",
+        "year": 1982,
+        "duration": 1,
+        "id": 8311482
+    },
+    {
+        "title": "Chanel No. 5: Monuments",
+        "year": 1986,
+        "duration": 1,
+        "id": 8315734
+    },
+    {
+        "title": "Chanel No. 5: La Star",
+        "year": 1990,
+        "duration": 1,
+        "id": 8317298
+    },
+    {
+        "title": "Sammy Hagar: Winner Takes It All",
+        "year": 1987,
+        "duration": 5,
+        "id": 8463396
+    },
+    {
+        "title": "Stop the Madness",
+        "year": 1986,
+        "duration": 5,
+        "id": 8571360
+    },
+    {
+        "title": "AC/DC: Big Gun",
+        "year": 1993,
+        "duration": 4,
+        "id": 8673008
+    },
+    {
+        "title": "Nissin Cup Noodle: Arnold Schwarzenegger 'Noodle Man'",
+        "year": 1990,
+        "duration": 1,
+        "id": 8721718
+    },
+    {
+        "title": "Nissin Cup Noodle: Arnold Schwarzenegger",
+        "year": 1991,
+        "duration": 1,
+        "id": 8721720
+    },
+    {
+        "title": "Parisienne People by Joel & Ethan Coen",
+        "year": 2003,
+        "duration": 1,
+        "id": 8796784
+    },
+    {
+        "title": "Jaws: Deleted Scenes",
+        "year": 2000,
+        "duration": 14,
+        "id": 8886044
+    },
+    {
+        "title": "Star Wars: Episode V - The Empire Strikes Back: Deleted Scenes",
+        "year": 1980,
+        "duration": 12,
+        "id": 8924990
+    },
+    {
+        "title": "Star Wars: Episode VI - Return of the Jedi: Deleted Scenes",
+        "year": 1983,
+        "duration": 9,
+        "id": 8925010
+    },
+    {
+        "title": "Megadeth: Crush 'Em",
+        "year": 1999,
+        "duration": 4,
+        "id": 8933244
+    },
+    {
+        "title": "Star Wars: Episode IV: A New Hope - Deleted Scenes",
+        "year": 2011,
+        "duration": 8,
+        "id": 8933914
+    },
+    {
+        "title": "Sabotage: Alternate Endings:",
+        "year": 2014,
+        "duration": null,
+        "id": 8935200
+    },
+    {
+        "title": "Sabotage: Deleted Scenes",
+        "year": 2014,
+        "duration": null,
+        "id": 8935206
+    },
+    {
+        "title": "Lou",
+        "year": 2018,
+        "duration": 12,
+        "id": 8991750
+    },
+    {
+        "title": "50 States of Fright",
+        "year": 2020,
+        "duration": 7,
+        "id": 9104072
+    },
+    {
+        "title": "Rolex Celebrates the Art of Storytelling",
+        "year": 2018,
+        "duration": 1,
+        "id": 9570844
+    },
+    {
+        "title": "The Journey",
+        "year": 2019,
+        "duration": 6,
+        "id": 9571582
+    },
+    {
+        "title": "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+        "year": 2019,
+        "duration": 142,
+        "id": 9577852
+    },
+    {
+        "title": "Variety Club of Great Britain Challenge Match",
+        "year": 1967,
+        "duration": null,
+        "id": 9788396
+    },
+    {
+        "title": "Silversun Pickups: Little Lover's So Polite",
+        "year": 2008,
+        "duration": 4,
+        "id": 10110940
+    },
+    {
+        "title": "Century of Cinema",
+        "year": 1995,
+        "duration": null,
+        "id": 10198576
+    },
+    {
+        "title": "Bob Sinclar: Kiss My Eyes",
+        "year": 2003,
+        "duration": 3,
+        "id": 10212228
+    },
+    {
+        "title": "Reservoir Dogs: Deleted Scenes",
+        "year": 1992,
+        "duration": 13,
+        "id": 10763164
+    },
+    {
+        "title": "Tired of Being Sorry",
+        "year": 2005,
+        "duration": null,
+        "id": 10815358
+    },
+    {
+        "title": "The King of Comedy: Deleted and Extended Scenes",
+        "year": 2014,
+        "duration": 38,
+        "id": 10908058
+    },
+    {
+        "title": "The Smithereens: Time Won't Let Me",
+        "year": 1994,
+        "duration": 4,
+        "id": 10925618
+    },
+    {
+        "title": "Steven's Dream",
+        "year": 2000,
+        "duration": null,
+        "id": 11101824
+    },
+    {
+        "title": "Darrylgorn",
+        "year": 2019,
+        "duration": 8,
+        "id": 11343494
+    },
+    {
+        "title": "The Irishman: In Conversation",
+        "year": 2019,
+        "duration": 23,
+        "id": 11353562
+    },
+    {
+        "title": "Audi Presents: Lunch Break",
+        "year": 2019,
+        "duration": 2,
+        "id": 11429386
+    },
+    {
+        "title": "Hennessy X.O: The Seven Worlds",
+        "year": 2019,
+        "duration": null,
+        "id": 11569980
+    },
+    {
+        "title": "Hovis: Boy on the Bike",
+        "year": 1973,
+        "duration": 1,
+        "id": 11588548
+    },
+    {
+        "title": "Royal Court of China: Half the Truth",
+        "year": 1989,
+        "duration": null,
+        "id": 11633360
+    },
+    {
+        "title": "Guardians of Life",
+        "year": 2020,
+        "duration": 3,
+        "id": 11744604
+    },
+    {
+        "title": "Neil Cicierega: Wow Wow (Audio)",
+        "year": 2017,
+        "duration": 3,
+        "id": 11833768
+    },
+    {
+        "title": "Dan Aykroyd and Tom Hanks: City of Crime",
+        "year": 1987,
+        "duration": null,
+        "id": 11885402
+    },
+    {
+        "title": "Bleu de Chanel: The Film",
+        "year": 2018,
+        "duration": 1,
+        "id": 11911992
+    },
+    {
+        "title": "Neil Cicierega: Vivid Memories Turn to Fantasies (Audio)",
+        "year": 2014,
+        "duration": 3,
+        "id": 12771922
+    },
+    {
+        "title": "Mulan",
+        "year": 1998,
+        "duration": null,
+        "id": 12771923
+    },
+    {
+        "title": "No Time To Die",
+        "year": 2021,
+        "duration": null,
+        "id": 12771924
+    }
+]
